@@ -1,0 +1,25 @@
+.gallery-image-headline {
+  @extend .white-text, .text-lighten-1;
+}
+
+.gallery-image {
+  @extend .z-depth-5, .responsive-img;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.astrometry-table {
+  td {
+    padding: 0;
+  }
+}
+
+.equipment-table {
+  td {
+    padding: 0;
+  }
+}
+
+.image-description {
+  text-align: justify;
+}

@@ -1,0 +1,2402 @@
+{
+  "TMB 105": {
+    "aperture": "105",
+    "focal_length": "651"
+  },
+  "Altair 102": {
+    "aperture": "102",
+    "focal_length": "660"
+  },
+  "Altair 150-SS 6 F5": {
+    "aperture": "152",
+    "focal_length": "762"
+  },
+  "Altair APM 107/700": {
+    "aperture": "107",
+    "focal_length": "700"
+  },
+  "Altair APM 130/780": {
+    "aperture": "130",
+    "focal_length": "780"
+  },
+  "Altair APM 152/1200": {
+    "aperture": "152",
+    "focal_length": "1200"
+  },
+  "Altair DeepField-250": {
+    "aperture": "254",
+    "focal_length": "2540"
+  },
+  "Altair DeepField-300": {
+    "aperture": "305",
+    "focal_length": "2438"
+  },
+  "Altair GSO 10 F8": {
+    "aperture": "254",
+    "focal_length": "2032"
+  },
+  "Altair GSO 6 F9": {
+    "aperture": "152",
+    "focal_length": "1372"
+  },
+  "Altair GSO 8 F5": {
+    "aperture": "203",
+    "focal_length": "1016"
+  },
+  "Altair GSO 8 F8": {
+    "aperture": "203",
+    "focal_length": "1626"
+  },
+  "Altair Lightwave 60": {
+    "aperture": "60",
+    "focal_length": "420"
+  },
+  "Altair Lightwave 80": {
+    "aperture": "80",
+    "focal_length": "500"
+  },
+  "Altair Mak 150-1800": {
+    "aperture": "150",
+    "focal_length": "1800"
+  },
+  "Altair Planeta 250": {
+    "aperture": "250",
+    "focal_length": "4500"
+  },
+  "Altair Starwave 102": {
+    "aperture": "102",
+    "focal_length": "710"
+  },
+  "Altair Starwave 110": {
+    "aperture": "110",
+    "focal_length": "770"
+  },
+  "Altair Wave Series 102": {
+    "aperture": "102",
+    "focal_length": "715"
+  },
+  "Altair Wave Series 115": {
+    "aperture": "115",
+    "focal_length": "805"
+  },
+  "Altair Wave Series 130": {
+    "aperture": "130",
+    "focal_length": "915"
+  },
+  "Altair Wave Series 80": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Antares 105 1000mm": {
+    "aperture": "105",
+    "focal_length": "1000"
+  },
+  "Antares 105 1300mm": {
+    "aperture": "105",
+    "focal_length": "1300"
+  },
+  "Antares 105 1500mm": {
+    "aperture": "105",
+    "focal_length": "1500"
+  },
+  "Antares 1149": {
+    "aperture": "114",
+    "focal_length": "900"
+  },
+  "Antares 12012": {
+    "aperture": "120",
+    "focal_length": "1220"
+  },
+  "Antares 1208": {
+    "aperture": "127",
+    "focal_length": "820"
+  },
+  "Antares 1529": {
+    "aperture": "152",
+    "focal_length": "990"
+  },
+  "Antares 515": {
+    "aperture": "152",
+    "focal_length": "750"
+  },
+  "Antares 520": {
+    "aperture": "200",
+    "focal_length": "1000"
+  },
+  "Antares 905": {
+    "aperture": "90",
+    "focal_length": "500"
+  },
+  "Antares Sentinel": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Antares Vixen Spec 100": {
+    "aperture": "100",
+    "focal_length": "1300"
+  },
+  "Antares Vixen Spec 90": {
+    "aperture": "90",
+    "focal_length": "1000"
+  },
+  "APM 100/800": {
+    "aperture": "100",
+    "focal_length": "800"
+  },
+  "APM 105/650": {
+    "aperture": "105",
+    "focal_length": "650"
+  },
+  "APM 107/700": {
+    "aperture": "107",
+    "focal_length": "700"
+  },
+  "APM 115/805": {
+    "aperture": "115",
+    "focal_length": "805"
+  },
+  "APM 123/738": {
+    "aperture": "123",
+    "focal_length": "738"
+  },
+  "APM 130/1170": {
+    "aperture": "130",
+    "focal_length": "1170"
+  },
+  "APM 130/780": {
+    "aperture": "130",
+    "focal_length": "780"
+  },
+  "APM 152/1200ED / D / T": {
+    "aperture": "152",
+    "focal_length": "1200"
+  },
+  "APM 175/1400": {
+    "aperture": "175",
+    "focal_length": "1400"
+  },
+  "APM 180/1260": {
+    "aperture": "180",
+    "focal_length": "1260"
+  },
+  "APM 203/1420": {
+    "aperture": "203",
+    "focal_length": "1420"
+  },
+  "APM 203/1800": {
+    "aperture": "203",
+    "focal_length": "1800"
+  },
+  "APM 228/2050": {
+    "aperture": "228",
+    "focal_length": "2050"
+  },
+  "APM 254/2250": {
+    "aperture": "254",
+    "focal_length": "2250"
+  },
+  "APM 280/2500": {
+    "aperture": "280",
+    "focal_length": "2500"
+  },
+  "APM 304/2280": {
+    "aperture": "304",
+    "focal_length": "2280"
+  },
+  "APM 304/3600": {
+    "aperture": "304",
+    "focal_length": "3600"
+  },
+  "APM 330/3960": {
+    "aperture": "330",
+    "focal_length": "3960"
+  },
+  "APM 356/4270": {
+    "aperture": "356",
+    "focal_length": "4270"
+  },
+  "APM 510/6500": {
+    "aperture": "510",
+    "focal_length": "6500"
+  },
+  "APM 80/480": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "ASA 10N-OK3 f 3.6": {
+    "aperture": "250",
+    "focal_length": "900"
+  },
+  "ASA 12N-OK3 f 3.6": {
+    "aperture": "300",
+    "focal_length": "1080"
+  },
+  "ASA 16N-OK3 f 3.6": {
+    "aperture": "400",
+    "focal_length": "1440"
+  },
+  "ASA 20N-OK3 f 3.6 / 20NG-OK3 f 3.6": {
+    "aperture": "500",
+    "focal_length": "1900"
+  },
+  "ASA 400 Cassegrain": {
+    "aperture": "400",
+    "focal_length": "3600"
+  },
+  "ASA 500 Cassegrain": {
+    "aperture": "500",
+    "focal_length": "4500"
+  },
+  "ASA 500 RC": {
+    "aperture": "500",
+    "focal_length": "4000"
+  },
+  "ASA 600 Cassegrain": {
+    "aperture": "600",
+    "focal_length": "5400"
+  },
+  "ASA 600 RC": {
+    "aperture": "600",
+    "focal_length": "4800"
+  },
+  "ASA 8HSOK3ZK": {
+    "aperture": "200",
+    "focal_length": "560"
+  },
+  "ASA 8N-OK3 f 3.6": {
+    "aperture": "200",
+    "focal_length": "720"
+  },
+  "ASA AZ800 Cassegrain": {
+    "aperture": "800",
+    "focal_length": "7200"
+  },
+  "ASA AZ800 RC": {
+    "aperture": "800",
+    "focal_length": "6400"
+  },
+  "ASA400 Cassegrain": {
+    "aperture": "400",
+    "focal_length": "3200"
+  },
+  "Ascension 102ED": {
+    "aperture": "102",
+    "focal_length": "714"
+  },
+  "Ascension 127ED ": {
+    "aperture": "127",
+    "focal_length": "953"
+  },
+  "Ascension 80ED": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Astro-Physics  Maksutov Cassegrain 305": {
+    "aperture": "305",
+    "focal_length": "3810"
+  },
+  "Astro-Physics  StarFire 130EDT f8.35": {
+    "aperture": "130",
+    "focal_length": "1085"
+  },
+  "Astro-Physics 10inch Maksutov-Cassegrain": {
+    "aperture": "254",
+    "focal_length": "3708"
+  },
+  "Astro-Physics Riccardi-Honders 305": {
+    "aperture": "305",
+    "focal_length": "1159"
+  },
+  "Astro-Physics Starfire 130EDF f6.3": {
+    "aperture": "130",
+    "focal_length": "819"
+  },
+  "Astro-Physics Starfire 130EDFS f6": {
+    "aperture": "130",
+    "focal_length": "780"
+  },
+  "Astro-Physics Starfire 140EDF": {
+    "aperture": "140",
+    "focal_length": "1050"
+  },
+  "Astro-Physics Starfire 155EDF / EDFS": {
+    "aperture": "155",
+    "focal_length": "1085"
+  },
+  "Astro-Physics Starfire 160EDF": {
+    "aperture": "160",
+    "focal_length": "1200"
+  },
+  "Astro-Physics Starfire 175EDF": {
+    "aperture": "175",
+    "focal_length": "1400"
+  },
+  "Astro-Physics Starfire 180EDF": {
+    "aperture": "180",
+    "focal_length": "1260"
+  },
+  "Astro-Physics Stowaway 90EDFS": {
+    "aperture": "92",
+    "focal_length": "450"
+  },
+  "Astro-Physics Stowaway 92EDFS": {
+    "aperture": "92",
+    "focal_length": "604"
+  },
+  "Astro-Physics Traveler 105EDFS": {
+    "aperture": "105",
+    "focal_length": "610"
+  },
+  "Astro Professional APO 102mm f/7": {
+    "aperture": "102",
+    "focal_length": "714"
+  },
+  "Astro-Tech 10 inch f/4": {
+    "aperture": "254",
+    "focal_length": "1016"
+  },
+  "Astro-Tech 10 inch f/8": {
+    "aperture": "254",
+    "focal_length": "2000"
+  },
+  "Astro-Tech 12 inch f/4": {
+    "aperture": "304",
+    "focal_length": "1220"
+  },
+  "Astro-Tech 12 inch f/8": {
+    "aperture": "304",
+    "focal_length": "2438"
+  },
+  "Astro-Tech 6 inch f/4": {
+    "aperture": "152",
+    "focal_length": "610"
+  },
+  "Astro-Tech 6 inch f/9": {
+    "aperture": "152",
+    "focal_length": "1370"
+  },
+  "Astro-Tech 8 inch f/4": {
+    "aperture": "203",
+    "focal_length": "800"
+  },
+  "Astro-Tech 8 inch f/8": {
+    "aperture": "203",
+    "focal_length": "1625"
+  },
+  "Astro-Tech AT106": {
+    "aperture": "106",
+    "focal_length": "690"
+  },
+  "Astro-Tech AT111EDT": {
+    "aperture": "111",
+    "focal_length": "777"
+  },
+  "Astro-Tech AT130": {
+    "aperture": "130",
+    "focal_length": "780"
+  },
+  "Astro-Tech AT65EDQ": {
+    "aperture": "65",
+    "focal_length": "420"
+  },
+  "Astro-Tech AT72ED": {
+    "aperture": "72",
+    "focal_length": "430"
+  },
+  "Astro-Tech AT90EDT": {
+    "aperture": "90",
+    "focal_length": "600"
+  },
+  "Astrosib RC250": {
+    "aperture": "250",
+    "focal_length": "2000"
+  },
+  "Astrosib RC300": {
+    "aperture": "300",
+    "focal_length": "2400"
+  },
+  "Astrosib RC360": {
+    "aperture": "360",
+    "focal_length": "2880"
+  },
+  "Astrosib RC400": {
+    "aperture": "406",
+    "focal_length": "3200"
+  },
+  "Astrosib RC500": {
+    "aperture": "508",
+    "focal_length": "4000"
+  },
+  "Boren-Simon 10 inch PowerNewt": {
+    "aperture": "254",
+    "focal_length": "722"
+  },
+  "Boren-Simon 6 inch PowerNewt": {
+    "aperture": "152",
+    "focal_length": "430"
+  },
+  "Boren-Simon 8 inch PowerNewt": {
+    "aperture": "200",
+    "focal_length": "568"
+  },
+  "Borg B04550": {
+    "aperture": "45",
+    "focal_length": "227"
+  },
+  "Borg B05056": {
+    "aperture": "50",
+    "focal_length": "280"
+  },
+  "Borg B06040": {
+    "aperture": "60",
+    "focal_length": "245"
+  },
+  "Borg B06045 Mini Borg": {
+    "aperture": "45",
+    "focal_length": "325"
+  },
+  "Borg B06049": {
+    "aperture": "60",
+    "focal_length": "300"
+  },
+  "Borg B06071": {
+    "aperture": "71",
+    "focal_length": "400"
+  },
+  "Borg B06110": {
+    "aperture": "101",
+    "focal_length": "640"
+  },
+  "Borg B06150 Mini Borg": {
+    "aperture": "50",
+    "focal_length": "250"
+  },
+  "Borg B06161 Mini Borg": {
+    "aperture": "60",
+    "focal_length": "325"
+  },
+  "Borg B06171": {
+    "aperture": "71",
+    "focal_length": "400"
+  },
+  "Borg B06177": {
+    "aperture": "77",
+    "focal_length": "500"
+  },
+  "Borg B06260 Mini Borg": {
+    "aperture": "60",
+    "focal_length": "350"
+  },
+  "Borg B06271": {
+    "aperture": "71",
+    "focal_length": "560"
+  },
+  "Borg B06277": {
+    "aperture": "77",
+    "focal_length": "500"
+  },
+  "Borg B07139": {
+    "aperture": "71",
+    "focal_length": "280"
+  },
+  "Borg B07160": {
+    "aperture": "71",
+    "focal_length": "430"
+  },
+  "Borg B07743": {
+    "aperture": "77",
+    "focal_length": "330"
+  },
+  "Borg B07746": {
+    "aperture": "77",
+    "focal_length": "355"
+  },
+  "Borg B08943": {
+    "aperture": "89",
+    "focal_length": "383"
+  },
+  "Borg B08947": {
+    "aperture": "89",
+    "focal_length": "420"
+  },
+  "Borg B09125": {
+    "aperture": "125",
+    "focal_length": "750"
+  },
+  "Borg B12539": {
+    "aperture": "125",
+    "focal_length": "490"
+  },
+  "Borg B12542": {
+    "aperture": "125",
+    "focal_length": "525"
+  },
+  "Borg B12551": {
+    "aperture": "125",
+    "focal_length": "630"
+  },
+  "Borg B12565": {
+    "aperture": "125",
+    "focal_length": "810"
+  },
+  "Bresser 102/1000": {
+    "aperture": "102",
+    "focal_length": "1000"
+  },
+  "Bresser 114/500": {
+    "aperture": "114",
+    "focal_length": "500"
+  },
+  "Bresser 127/635": {
+    "aperture": "127",
+    "focal_length": "635"
+  },
+  "Bresser 150/1200": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "Bresser 150/1400": {
+    "aperture": "150",
+    "focal_length": "1400"
+  },
+  "Bresser 150/750": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "Bresser 152/1200": {
+    "aperture": "152",
+    "focal_length": "1200"
+  },
+  "Bresser 152/760": {
+    "aperture": "152",
+    "focal_length": "760"
+  },
+  "Bresser 60/700": {
+    "aperture": "60",
+    "focal_length": "700"
+  },
+  "Bresser 80/900": {
+    "aperture": "80",
+    "focal_length": "900"
+  },
+  "Bresser 90/900": {
+    "aperture": "90",
+    "focal_length": "900"
+  },
+  "Bresser AR-127L": {
+    "aperture": "127",
+    "focal_length": "1200"
+  },
+  "Bresser NT-203": {
+    "aperture": "203",
+    "focal_length": "1000"
+  },
+  "Bushnell NorthStar - 1250mm x 90mm ": {
+    "aperture": "90",
+    "focal_length": "1250"
+  },
+  "Bushnell NorthStar - 1300mm x 100mm ": {
+    "aperture": "100",
+    "focal_length": "1300"
+  },
+  "Bushnell NorthStar - 700mm x 3 inch": {
+    "aperture": "76.2",
+    "focal_length": "700"
+  },
+  "Bushnell NorthStar - 900mm x 4.5 inch": {
+    "aperture": "114",
+    "focal_length": "900"
+  },
+  "CCF Telescopes 105mm f/6 Triplet APO": {
+    "aperture": "105",
+    "focal_length": "630"
+  },
+  "CCF Telescopes 140mm f/6.5 Triplet APO": {
+    "aperture": "140",
+    "focal_length": "915"
+  },
+  "CCF Telescopes 160mm f/6.56 Triplet APO": {
+    "aperture": "160",
+    "focal_length": "1120"
+  },
+  "CCF Telescopes 185mm f/6.8 Triplet APO": {
+    "aperture": "185",
+    "focal_length": "1260"
+  },
+  "Celestron 10 inch Newtonian (C)": {
+    "aperture": "254",
+    "focal_length": "1200"
+  },
+  "Celestron 11 inch SCT (C, VX, CGE, CGEM, CPC)": {
+    "aperture": "279",
+    "focal_length": "2800"
+  },
+  "Celestron 11 inch SCT (Fastar/Hyperstar)": {
+    "aperture": "279",
+    "focal_length": "560"
+  },
+  "Celestron 14 inch SCT (CGE,CGEM)": {
+    "aperture": "356",
+    "focal_length": "3910"
+  },
+  "Celestron 14 inch SCT (Fastar/Hyperstar)": {
+    "aperture": "356",
+    "focal_length": "675"
+  },
+  "Celestron 6 inch Newtonian (C, VX)": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "Celestron 6 inch Refractor (VX)": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "Celestron 6 inch SCT (C, VX)": {
+    "aperture": "150",
+    "focal_length": "1500"
+  },
+  "Celestron 6 inch SCT (Fastar/Hyperstar)": {
+    "aperture": "150",
+    "focal_length": "290"
+  },
+  "Celestron 8 inch Newtonian (C, VX)": {
+    "aperture": "203",
+    "focal_length": "1000"
+  },
+  "Celestron 8 inch SCT (C, VX, CGEM, CPC)": {
+    "aperture": "203",
+    "focal_length": "2032"
+  },
+  "Celestron 8 inch SCT (Fastar/Hyperstar)": {
+    "aperture": "203",
+    "focal_length": "425"
+  },
+  "Celestron 80ED": {
+    "aperture": "80",
+    "focal_length": "600"
+  },
+  "Celestron 9.25 inch SCT (C, VX, CGE, CGEM, CPC)": {
+    "aperture": "235",
+    "focal_length": "2350"
+  },
+  "Celestron 9.25 inch SCT (Fastar/Hyperstar)": {
+    "aperture": "235",
+    "focal_length": "540"
+  },
+  "Celestron AstroMaster 130EQ-MD": {
+    "aperture": "130",
+    "focal_length": "650"
+  },
+  "Celestron C90 Mak (NexStar 90 SLT / Sky Prodigy 90)": {
+    "aperture": "90",
+    "focal_length": "1250"
+  },
+  "Celestron Nexstar 102 SLT": {
+    "aperture": "102",
+    "focal_length": "660"
+  },
+  "Celestron Nexstar 127 SLT": {
+    "aperture": "127",
+    "focal_length": "1500"
+  },
+  "Celestron NexStar 130 SLT": {
+    "aperture": "130",
+    "focal_length": "650"
+  },
+  "Celestron NexStar 4SE": {
+    "aperture": "102",
+    "focal_length": "1325"
+  },
+  "Celestron NexStar 5SE": {
+    "aperture": "125",
+    "focal_length": "1250"
+  },
+  "Celestron NexStar 6SE": {
+    "aperture": "150",
+    "focal_length": "1500"
+  },
+  "Celestron NexStar 8SE": {
+    "aperture": "203",
+    "focal_length": "2032"
+  },
+  "Celestron Omni XLT 102": {
+    "aperture": "102",
+    "focal_length": "1000"
+  },
+  "Celestron Omni XLT 120": {
+    "aperture": "120",
+    "focal_length": "1000"
+  },
+  "Celestron Omni XLT 127": {
+    "aperture": "127",
+    "focal_length": "1250"
+  },
+  "Celestron Omni XLT 150": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "Celestron Omni XLT 150 R": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "Celestron SkyProdigy 102": {
+    "aperture": "102",
+    "focal_length": "660"
+  },
+  "Celestron SkyProdigy 130": {
+    "aperture": "130",
+    "focal_length": "650"
+  },
+  "Celestron SkyProdigy 6": {
+    "aperture": "152",
+    "focal_length": "1500"
+  },
+  "Celestron SkyProdigy 70": {
+    "aperture": "70",
+    "focal_length": "700"
+  },
+  "Explore Scientific AR102": {
+    "aperture": "102",
+    "focal_length": "663"
+  },
+  "Explore Scientific AR127": {
+    "aperture": "127",
+    "focal_length": "825"
+  },
+  "Explore Scientific AR152": {
+    "aperture": "152",
+    "focal_length": "988"
+  },
+  "Explore Scientific Comet Hunter": {
+    "aperture": "152",
+    "focal_length": "731"
+  },
+  "Explore Scientific ED102": {
+    "aperture": "102",
+    "focal_length": "714"
+  },
+  "Explore Scientific ED127": {
+    "aperture": "127",
+    "focal_length": "952"
+  },
+  "Explore Scientific ED152": {
+    "aperture": "152",
+    "focal_length": "1216"
+  },
+  "Explore Scientific ED80": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "GSO 10 inch F4 Newtonian": {
+    "aperture": "254",
+    "focal_length": "1016"
+  },
+  "GSO 10 inch F8 RC": {
+    "aperture": "254",
+    "focal_length": "2000"
+  },
+  "GSO 12 inch F4 Newtonian": {
+    "aperture": "305",
+    "focal_length": "1220"
+  },
+  "GSO 12 inch F8 RC": {
+    "aperture": "305",
+    "focal_length": "2440"
+  },
+  "GSO 6 inch F4 Newtonian": {
+    "aperture": "152",
+    "focal_length": "608"
+  },
+  "GSO 6 inch F5 Newtonian": {
+    "aperture": "152",
+    "focal_length": "750"
+  },
+  "GSO 6 inch F6 Newtonian": {
+    "aperture": "152",
+    "focal_length": "918"
+  },
+  "GSO 6 inch F9 RC": {
+    "aperture": "152",
+    "focal_length": "1370"
+  },
+  "GSO 8 inch F4 Newtonian": {
+    "aperture": "203",
+    "focal_length": "800"
+  },
+  "GSO 8 inch F5 Newtonian": {
+    "aperture": "203",
+    "focal_length": "1000"
+  },
+  "GSO 8 inch F8 RC": {
+    "aperture": "203",
+    "focal_length": "1624"
+  },
+  "GSO Refractor 90/1000mm": {
+    "aperture": "90",
+    "focal_length": "1000"
+  },
+  "Intes Micro Alter M1008": {
+    "aperture": "254",
+    "focal_length": "2540"
+  },
+  "Intes Micro Alter M1010": {
+    "aperture": "254",
+    "focal_length": "2540"
+  },
+  "Intes Micro Alter M1012": {
+    "aperture": "254",
+    "focal_length": "3175"
+  },
+  "Intes Micro Alter M1015": {
+    "aperture": "254",
+    "focal_length": "3810"
+  },
+  "Intes Micro Alter M1210": {
+    "aperture": "305",
+    "focal_length": "3850"
+  },
+  "Intes Micro Alter M1212": {
+    "aperture": "305",
+    "focal_length": "3850"
+  },
+  "Intes Micro Alter M1215": {
+    "aperture": "305",
+    "focal_length": "4575"
+  },
+  "Intes Micro Alter M1410": {
+    "aperture": "356",
+    "focal_length": "4575"
+  },
+  "Intes Micro Alter M1412": {
+    "aperture": "356",
+    "focal_length": "4575"
+  },
+  "Intes Micro Alter M1610": {
+    "aperture": "400",
+    "focal_length": "4000"
+  },
+  "Intes Micro Alter M500": {
+    "aperture": "127",
+    "focal_length": "1270"
+  },
+  "Intes Micro Alter M603": {
+    "aperture": "152",
+    "focal_length": "1520"
+  },
+  "Intes Micro Alter M606": {
+    "aperture": "254",
+    "focal_length": "2540"
+  },
+  "Intes Micro Alter M606": {
+    "aperture": "400",
+    "focal_length": "4000"
+  },
+  "Intes Micro Alter M606": {
+    "aperture": "152",
+    "focal_length": "912"
+  },
+  "Intes Micro Alter M615": {
+    "aperture": "152",
+    "focal_length": "2280"
+  },
+  "Intes Micro Alter M6511": {
+    "aperture": "160",
+    "focal_length": "1760"
+  },
+  "Intes Micro Alter M703": {
+    "aperture": "178",
+    "focal_length": "1780"
+  },
+  "Intes Micro Alter M706": {
+    "aperture": "178",
+    "focal_length": "1068"
+  },
+  "Intes Micro Alter M715": {
+    "aperture": "178",
+    "focal_length": "2670"
+  },
+  "Intes Micro Alter M806": {
+    "aperture": "203",
+    "focal_length": "1218"
+  },
+  "Intes Micro Alter M806": {
+    "aperture": "203",
+    "focal_length": "1218"
+  },
+  "Intes Micro Alter M809": {
+    "aperture": "203",
+    "focal_length": "2030"
+  },
+  "Intes Micro Alter M815": {
+    "aperture": "203",
+    "focal_length": "3045"
+  },
+  "Intes Micro Alter MN65": {
+    "aperture": "163",
+    "focal_length": "894"
+  },
+  "Intes Micro Alter МН105": {
+    "aperture": "254",
+    "focal_length": "1397"
+  },
+  "Intes Micro Alter МН105": {
+    "aperture": "254",
+    "focal_length": "1397"
+  },
+  "Intes Micro Alter МН124": {
+    "aperture": "305",
+    "focal_length": "1921"
+  },
+  "Intes Micro Alter МН126": {
+    "aperture": "305",
+    "focal_length": "1921"
+  },
+  "Intes Micro Alter МН126": {
+    "aperture": "305",
+    "focal_length": "1921"
+  },
+  "Intes Micro Alter МН144": {
+    "aperture": "356",
+    "focal_length": "1600"
+  },
+  "Intes Micro Alter МН56": {
+    "aperture": "127",
+    "focal_length": "762"
+  },
+  "Intes Micro Alter МН58": {
+    "aperture": "127",
+    "focal_length": "1016"
+  },
+  "Intes Micro Alter МН66": {
+    "aperture": "152",
+    "focal_length": "912"
+  },
+  "Intes Micro Alter МН68": {
+    "aperture": "152",
+    "focal_length": "1216"
+  },
+  "Intes Micro Alter МН74": {
+    "aperture": "174",
+    "focal_length": "712"
+  },
+  "Intes Micro Alter МН76": {
+    "aperture": "178",
+    "focal_length": "1068"
+  },
+  "Intes Micro Alter МН78": {
+    "aperture": "178",
+    "focal_length": "1424"
+  },
+  "Intes Micro Alter МН84": {
+    "aperture": "203",
+    "focal_length": "812"
+  },
+  "Intes Micro Alter МН86": {
+    "aperture": "203",
+    "focal_length": "1218"
+  },
+  "Intes Micro Alter МН86": {
+    "aperture": "203",
+    "focal_length": "1218"
+  },
+  "iOptron  90mm": {
+    "aperture": "90",
+    "focal_length": "500"
+  },
+  "iOptron  MC90": {
+    "aperture": "90",
+    "focal_length": "1200"
+  },
+  "iOptron MAK 150": {
+    "aperture": "150",
+    "focal_length": "1800"
+  },
+  "iOptron N114mm": {
+    "aperture": "114",
+    "focal_length": "1000"
+  },
+  "iOptron R80 ": {
+    "aperture": "80",
+    "focal_length": "400"
+  },
+  "iOptron Versa 108 ED": {
+    "aperture": "108",
+    "focal_length": "648"
+  },
+  "iStar Asteria AT 127-12 R30": {
+    "aperture": "127",
+    "focal_length": "1476"
+  },
+  "iStar Asteria AT 127-8 R30": {
+    "aperture": "127",
+    "focal_length": "1016"
+  },
+  "iStar Asteria AT 150-8 R30 / R35": {
+    "aperture": "150",
+    "focal_length": "1168"
+  },
+  "iStar Fantom CFT152-8": {
+    "aperture": "152",
+    "focal_length": "1216"
+  },
+  "iStar Forfax LTT 140-12": {
+    "aperture": "140",
+    "focal_length": "1680"
+  },
+  "iStar Perseus AT 127-8": {
+    "aperture": "127",
+    "focal_length": "1010"
+  },
+  "iStar Perseus AT 150-10": {
+    "aperture": "150",
+    "focal_length": "1500"
+  },
+  "iStar Perseus AT 150-12": {
+    "aperture": "150",
+    "focal_length": "1800"
+  },
+  "iStar Perseus AT 150-15": {
+    "aperture": "150",
+    "focal_length": "2250"
+  },
+  "iStar Perseus AT 150-8": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "iStar Perseus AT 204-9": {
+    "aperture": "204",
+    "focal_length": "1800"
+  },
+  "iStar Perseus TCR 150-12": {
+    "aperture": "150",
+    "focal_length": "1800"
+  },
+  "iStar Phoebe SAT180-5": {
+    "aperture": "180",
+    "focal_length": "900"
+  },
+  "iStar Phoenix WFT 127-5": {
+    "aperture": "127",
+    "focal_length": "700"
+  },
+  "iStar Phoenix WFT 150-5": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "iStar Phoenix WFT 204-6": {
+    "aperture": "204",
+    "focal_length": "1200"
+  },
+  "Konus 130": {
+    "aperture": "130",
+    "focal_length": "1500"
+  },
+  "Konus 200": {
+    "aperture": "200",
+    "focal_length": "1000"
+  },
+  "Konus 500": {
+    "aperture": "114",
+    "focal_length": "500"
+  },
+  "Konus 90": {
+    "aperture": "90",
+    "focal_length": "1250"
+  },
+  "Meade 10 inch SCT (LX200)": {
+    "aperture": "254",
+    "focal_length": "2500"
+  },
+  "Meade 10 inch SCT (LX80)": {
+    "aperture": "254",
+    "focal_length": "2540"
+  },
+  "Meade 10 inch SCT/RC (LX850, LX600, LX400, RCX400)": {
+    "aperture": "254",
+    "focal_length": "2032"
+  },
+  "Meade 115mm ED APO (LX80, 6000)": {
+    "aperture": "115",
+    "focal_length": "805"
+  },
+  "Meade 12 inch SCT (LX200)": {
+    "aperture": "305",
+    "focal_length": "3048"
+  },
+  "Meade 12 inch SCT/RC (LX850, LX600, LX400, RCX400)": {
+    "aperture": "305",
+    "focal_length": "2438"
+  },
+  "Meade 130mm ED APO (LX850, 6000)": {
+    "aperture": "130",
+    "focal_length": "910"
+  },
+  "Meade 14 inch SCT (LX200)": {
+    "aperture": "356",
+    "focal_length": "3556"
+  },
+  "Meade 14 inch SCT/RC (LX850, LX600, LX400, RCX400)": {
+    "aperture": "356",
+    "focal_length": "2845"
+  },
+  "Meade 16 inch SCT (LX200)": {
+    "aperture": "406",
+    "focal_length": "4064"
+  },
+  "Meade 16 inch SCT/RC (LX600, LX400, RCX400)": {
+    "aperture": "406",
+    "focal_length": "3251"
+  },
+  "Meade 20 inch SCT (Max)": {
+    "aperture": "508",
+    "focal_length": "4064"
+  },
+  "Meade 6 inch SCT (LX80, LS, LT)": {
+    "aperture": "152",
+    "focal_length": "1524"
+  },
+  "Meade 8 inch SCT (LX200, LX90, LX50, LX10)": {
+    "aperture": "203",
+    "focal_length": "2000"
+  },
+  "Meade 8 inch SCT (LX80, LS, LT)": {
+    "aperture": "203",
+    "focal_length": "2034"
+  },
+  "Meade 80mm ED APO (LX80, 6000)": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Meade ETX-80": {
+    "aperture": "80",
+    "focal_length": "400"
+  },
+  "Meade ETX-90": {
+    "aperture": "90",
+    "focal_length": "1250"
+  },
+  "Meade Series 127 ED APO (5000)": {
+    "aperture": "127",
+    "focal_length": "889"
+  },
+  "Officina Stellare Falco Finder / Guider": {
+    "aperture": "80",
+    "focal_length": "310"
+  },
+  "Officina Stellare HiPer APO 115": {
+    "aperture": "115",
+    "focal_length": "805"
+  },
+  "Officina Stellare HiPer APO 130": {
+    "aperture": "130",
+    "focal_length": "780"
+  },
+  "Officina Stellare HiPer APO 152": {
+    "aperture": "152",
+    "focal_length": "1200"
+  },
+  "Officina Stellare HiPer APO 180": {
+    "aperture": "180",
+    "focal_length": "1260"
+  },
+  "Officina Stellare HiPer APO 200 F7": {
+    "aperture": "200",
+    "focal_length": "1400"
+  },
+  "Officina Stellare HiPer APO 200 F9": {
+    "aperture": "200",
+    "focal_length": "1800"
+  },
+  "Officina Stellare Pro RC 360": {
+    "aperture": "360",
+    "focal_length": "2880"
+  },
+  "Officina Stellare Pro RC 400": {
+    "aperture": "400",
+    "focal_length": "3200"
+  },
+  "Officina Stellare Pro RC 500": {
+    "aperture": "500",
+    "focal_length": "4000"
+  },
+  "Officina Stellare Pro RC 600": {
+    "aperture": "600",
+    "focal_length": "4800"
+  },
+  "Officina Stellare RiDK 300": {
+    "aperture": "305",
+    "focal_length": "2400"
+  },
+  "Officina Stellare RiLA 300": {
+    "aperture": "300",
+    "focal_length": "1150"
+  },
+  "Officina Stellare RiLA 400 F3.8": {
+    "aperture": "400",
+    "focal_length": "1500"
+  },
+  "Officina Stellare RiLA 400 F5": {
+    "aperture": "400",
+    "focal_length": "2100"
+  },
+  "Officina Stellare RiLA 500 F3.8": {
+    "aperture": "500",
+    "focal_length": "1900"
+  },
+  "Officina Stellare RiLA 500 F5": {
+    "aperture": "500",
+    "focal_length": "2500"
+  },
+  "Officina Stellare RiLA 600 F3.8": {
+    "aperture": "600",
+    "focal_length": "2280"
+  },
+  "Officina Stellare RiLA 600 F5": {
+    "aperture": "600",
+    "focal_length": "3000"
+  },
+  "Officina Stellare RiLA 800 F5": {
+    "aperture": "800",
+    "focal_length": "4000"
+  },
+  "Officina Stellare Ultra CRC 300": {
+    "aperture": "300",
+    "focal_length": "1680"
+  },
+  "Officina Stellare Ultra CRC 320": {
+    "aperture": "312",
+    "focal_length": "1680"
+  },
+  "Officina Stellare Veloce RH 200": {
+    "aperture": "216",
+    "focal_length": "600"
+  },
+  "Officina Stellare Veloce RH 300": {
+    "aperture": "314",
+    "focal_length": "900"
+  },
+  "OPT 10 inch f/4 Imaging Newtonian": {
+    "aperture": "254",
+    "focal_length": "1016"
+  },
+  "OPT 10 inch f/8 Ritchey-Chretien Astrograph": {
+    "aperture": "254",
+    "focal_length": "2000"
+  },
+  "OPT 12 inch f/4 Imaging Newtonian": {
+    "aperture": "305",
+    "focal_length": "1220"
+  },
+  "OPT 12 inch f/8 Ritchey-Chretien Astrograph": {
+    "aperture": "305",
+    "focal_length": "2432"
+  },
+  "OPT 6 inch f/4 Imaging Newtonian": {
+    "aperture": "152",
+    "focal_length": "610"
+  },
+  "OPT 6 inch f/9 Ritchey-Chretien Astrograph ": {
+    "aperture": "152",
+    "focal_length": "1370"
+  },
+  "OPT 8 inch f/4 Imaging Newtonian": {
+    "aperture": "203",
+    "focal_length": "800"
+  },
+  "OPT 8 inch f/8 Ritchey-Chretien Astrograph ": {
+    "aperture": "203",
+    "focal_length": "1600"
+  },
+  "Opticstar AR80S": {
+    "aperture": "80",
+    "focal_length": "400"
+  },
+  "Opticstar AR90S": {
+    "aperture": "90",
+    "focal_length": "495"
+  },
+  "Opticstar AR90S": {
+    "aperture": "90",
+    "focal_length": "495"
+  },
+  "Opticstar ED80S": {
+    "aperture": "80",
+    "focal_length": "500"
+  },
+  "Opticstar ED80S": {
+    "aperture": "80",
+    "focal_length": "500"
+  },
+  "Opticstar MG152 Maksutov": {
+    "aperture": "152",
+    "focal_length": "1900"
+  },
+  "Orion (US) 10 inch f/3.9 Newtonian Astrograph": {
+    "aperture": "254",
+    "focal_length": "1000"
+  },
+  "Orion (US) 100mm ED ": {
+    "aperture": "100",
+    "focal_length": "900"
+  },
+  "Orion (US) 102mm Maksutov-Cassegrain (Apex)": {
+    "aperture": "102",
+    "focal_length": "1300"
+  },
+  "Orion (US) 120mm f/5.0": {
+    "aperture": "120",
+    "focal_length": "600"
+  },
+  "Orion (US) 127mm Maksutov-Cassegrain (Apex, StarMax)": {
+    "aperture": "127",
+    "focal_length": "1540"
+  },
+  "Orion (US) 150mm Maksutov-Cassegrain": {
+    "aperture": "150",
+    "focal_length": "1800"
+  },
+  "Orion (US) 180mm Maksutov-Cassegrain ": {
+    "aperture": "180",
+    "focal_length": "2700"
+  },
+  "Orion (US) 203mm f/4.9 (Skyview Pro, Sirius, Atlas)": {
+    "aperture": "203",
+    "focal_length": "1000"
+  },
+  "Orion (US) 254mm f/4.7": {
+    "aperture": "254",
+    "focal_length": "1200"
+  },
+  "Orion (US) 8 inch f/3.9 Newtonian Astrograph ": {
+    "aperture": "203",
+    "focal_length": "800"
+  },
+  "Orion (US) 90mm Maksutov-Cassegrain (Apex)": {
+    "aperture": "90",
+    "focal_length": "1250"
+  },
+  "Orion (US) ED80": {
+    "aperture": "80",
+    "focal_length": "600"
+  },
+  "Orion (US) ED80T CF Triplet ": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Orion (US) ShortTube 80": {
+    "aperture": "80",
+    "focal_length": "400"
+  },
+  "Orion (US) SkyQuest XT10g ": {
+    "aperture": "254",
+    "focal_length": "1200"
+  },
+  "Orion (US) SkyQuest XT12g / XX12g": {
+    "aperture": "305",
+    "focal_length": "1500"
+  },
+  "Orion (US) SkyQuest XT8g": {
+    "aperture": "203",
+    "focal_length": "1200"
+  },
+  "Orion (US) SkyQuest XX14g": {
+    "aperture": "356",
+    "focal_length": "1650"
+  },
+  "Orion (US) SkyQuest XX16g": {
+    "aperture": "406",
+    "focal_length": "1800"
+  },
+  "Orion (US) StarBlast 4.5": {
+    "aperture": "114",
+    "focal_length": "450"
+  },
+  "Orion (US) StarBlast 62mm Compact Travel Refractor": {
+    "aperture": "62",
+    "focal_length": "520"
+  },
+  "Orion (US) StarBlast 80": {
+    "aperture": "80",
+    "focal_length": "350"
+  },
+  "Orion (US) StarSeeker II 102mm": {
+    "aperture": "102",
+    "focal_length": "660"
+  },
+  "Orion (US) StarSeeker II 130": {
+    "aperture": "130",
+    "focal_length": "650"
+  },
+  "Orion (US) EON 104mm ED-X2 f/6.25 Triplet Apo ": {
+    "aperture": "104",
+    "focal_length": "650"
+  },
+  "Orion (US) EON 115mm ED Triplet Apochromatic Refractor": {
+    "aperture": "115",
+    "focal_length": "805"
+  },
+  "Orion (US) EON 130mm ED Triplet Apochromatic Refractor ": {
+    "aperture": "130",
+    "focal_length": "910"
+  },
+  "Orion (US) EON 85mm ED-X2 f/6.6 Triplet Apo ": {
+    "aperture": "85",
+    "focal_length": "560"
+  },
+  "Orion Optics (UK) AG10": {
+    "aperture": "250",
+    "focal_length": "950"
+  },
+  "Orion Optics (UK) AG12": {
+    "aperture": "300",
+    "focal_length": "1140"
+  },
+  "Orion Optics (UK) AG14": {
+    "aperture": "350",
+    "focal_length": "1330"
+  },
+  "Orion Optics (UK) AG16": {
+    "aperture": "400",
+    "focal_length": "1520"
+  },
+  "Orion Optics (UK) AG8": {
+    "aperture": "200",
+    "focal_length": "760"
+  },
+  "Orion Optics (UK) CT10": {
+    "aperture": "250",
+    "focal_length": "1200"
+  },
+  "Orion Optics (UK) CT10L": {
+    "aperture": "250",
+    "focal_length": "1575"
+  },
+  "Orion Optics (UK) CT12": {
+    "aperture": "300",
+    "focal_length": "1200"
+  },
+  "Orion Optics (UK) CT12L": {
+    "aperture": "300",
+    "focal_length": "1590"
+  },
+  "Orion Optics (UK) CT14": {
+    "aperture": "350",
+    "focal_length": "1600"
+  },
+  "Orion Optics (UK) CT16": {
+    "aperture": "400",
+    "focal_length": "1600"
+  },
+  "Orion Optics (UK) CT8": {
+    "aperture": "200",
+    "focal_length": "900"
+  },
+  "Orion Optics (UK) ODK10": {
+    "aperture": "250",
+    "focal_length": "1700"
+  },
+  "Orion Optics (UK) ODK12": {
+    "aperture": "300",
+    "focal_length": "2040"
+  },
+  "Orion Optics (UK) ODK16": {
+    "aperture": "400",
+    "focal_length": "2720"
+  },
+  "Orion Optics (UK) OMC140": {
+    "aperture": "140",
+    "focal_length": "2000"
+  },
+  "Orion Optics (UK) VX10": {
+    "aperture": "250",
+    "focal_length": "1200"
+  },
+  "Orion Optics (UK) VX10L": {
+    "aperture": "250",
+    "focal_length": "1200"
+  },
+  "Orion Optics (UK) VX12": {
+    "aperture": "300",
+    "focal_length": "1600"
+  },
+  "Orion Optics (UK) VX12L": {
+    "aperture": "300",
+    "focal_length": "1600"
+  },
+  "Orion Optics (UK) VX14": {
+    "aperture": "350",
+    "focal_length": "1600"
+  },
+  "Orion Optics (UK) VX16": {
+    "aperture": "400",
+    "focal_length": "1600"
+  },
+  "Orion Optics (UK) VX20": {
+    "aperture": "500",
+    "focal_length": "2000"
+  },
+  "Orion Optics (UK) VX6": {
+    "aperture": "152",
+    "focal_length": "750"
+  },
+  "Orion Optics (UK) VX6L": {
+    "aperture": "152",
+    "focal_length": "1200"
+  },
+  "Orion Optics (UK) VX8": {
+    "aperture": "203",
+    "focal_length": "900"
+  },
+  "Orion Optics (UK) VX8L": {
+    "aperture": "203",
+    "focal_length": "1200"
+  },
+  "Parallax PI250": {
+    "aperture": "254",
+    "focal_length": "1524"
+  },
+  "Parallax PI250C": {
+    "aperture": "254",
+    "focal_length": "3810"
+  },
+  "Parallax PI250DK": {
+    "aperture": "254",
+    "focal_length": "5080"
+  },
+  "Parallax PI320": {
+    "aperture": "318",
+    "focal_length": "1524"
+  },
+  "Parallax PI320C": {
+    "aperture": "318",
+    "focal_length": "4770"
+  },
+  "Parallax PI320DK": {
+    "aperture": "318",
+    "focal_length": "6360"
+  },
+  "Parallax PI370": {
+    "aperture": "368",
+    "focal_length": "1842"
+  },
+  "Parallax PI370C": {
+    "aperture": "368",
+    "focal_length": "5520"
+  },
+  "Parallax PI370DK": {
+    "aperture": "368",
+    "focal_length": "7360"
+  },
+  "Parallax PI400": {
+    "aperture": "406",
+    "focal_length": "2032"
+  },
+  "Parallax PI400C": {
+    "aperture": "406",
+    "focal_length": "6090"
+  },
+  "Parallax PI400DK": {
+    "aperture": "406",
+    "focal_length": "8120"
+  },
+  "Pentax 100 SDUF-II": {
+    "aperture": "100",
+    "focal_length": "400"
+  },
+  "Pentax 105 SDP": {
+    "aperture": "105",
+    "focal_length": "672"
+  },
+  "Pentax 125 SDP": {
+    "aperture": "125",
+    "focal_length": "800"
+  },
+  "Pentax 75 SDHF": {
+    "aperture": "75",
+    "focal_length": "500"
+  },
+  "PlaneWave 0.7m CDK ": {
+    "aperture": "700",
+    "focal_length": "4638"
+  },
+  "PlaneWave 12.5 inch CDK": {
+    "aperture": "318",
+    "focal_length": "2541"
+  },
+  "PlaneWave 17 inch CDK ": {
+    "aperture": "432",
+    "focal_length": "2939"
+  },
+  "PlaneWave 20 inch CDK": {
+    "aperture": "508",
+    "focal_length": "3454"
+  },
+  "PlaneWave 24 inch CDK": {
+    "aperture": "610",
+    "focal_length": "3962"
+  },
+  "Revelation 10 inch F4 M-LRN": {
+    "aperture": "254",
+    "focal_length": "1016"
+  },
+  "Revelation 10 inch RC": {
+    "aperture": "254",
+    "focal_length": "2000"
+  },
+  "Revelation 100mm": {
+    "aperture": "100",
+    "focal_length": "600"
+  },
+  "Revelation 12 inch F4 M-LRN": {
+    "aperture": "303",
+    "focal_length": "1212"
+  },
+  "Revelation 6 inch RC": {
+    "aperture": "152",
+    "focal_length": "1370"
+  },
+  "Revelation 62mm": {
+    "aperture": "62",
+    "focal_length": "520"
+  },
+  "Revelation 8 inch F4 M-LRN": {
+    "aperture": "200",
+    "focal_length": "800"
+  },
+  "Revelation 8 inch RC": {
+    "aperture": "203",
+    "focal_length": "1624"
+  },
+  "Revelation 80mm": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Revelation 90mm": {
+    "aperture": "90",
+    "focal_length": "500"
+  },
+  "Scopos Observer 62": {
+    "aperture": "62",
+    "focal_length": "560"
+  },
+  "Scopos TL 805 APO": {
+    "aperture": "80",
+    "focal_length": "560"
+  },
+  "Scopos TL 906 APO": {
+    "aperture": "90",
+    "focal_length": "600"
+  },
+  "Sky Vision MTDK 250": {
+    "aperture": "250",
+    "focal_length": "4000"
+  },
+  "Sky Vision MTDK 315": {
+    "aperture": "315",
+    "focal_length": "5000"
+  },
+  "Sky Vision MTDK 400": {
+    "aperture": "400",
+    "focal_length": "6400"
+  },
+  "Sky Vision MTRC 250": {
+    "aperture": "250",
+    "focal_length": "2000"
+  },
+  "Sky Vision MTRC 315": {
+    "aperture": "315",
+    "focal_length": "2500"
+  },
+  "Sky Vision MTRC 400": {
+    "aperture": "400",
+    "focal_length": "3200"
+  },
+  "Sky Vision OTN 400mm": {
+    "aperture": "400",
+    "focal_length": "1400"
+  },
+  "Sky Vision T300-PN": {
+    "aperture": "300",
+    "focal_length": "1200"
+  },
+  "Skywatcher 102mm Guidescope": {
+    "aperture": "102",
+    "focal_length": "600"
+  },
+  "Skywatcher Equinox 100 APO": {
+    "aperture": "100",
+    "focal_length": "900"
+  },
+  "Skywatcher Equinox 120 APO PRO": {
+    "aperture": "120",
+    "focal_length": "900"
+  },
+  "Skywatcher Equinox 66 APO PRO": {
+    "aperture": "65",
+    "focal_length": "400"
+  },
+  "Skywatcher Equinox 80 APO PRO": {
+    "aperture": "80",
+    "focal_length": "500"
+  },
+  "Skywatcher Esprit 100ED Super APO Quintet": {
+    "aperture": "100",
+    "focal_length": "550"
+  },
+  "Skywatcher Esprit ED 100 PRO": {
+    "aperture": "100",
+    "focal_length": "500"
+  },
+  "Skywatcher Esprit ED 120 PRO ": {
+    "aperture": "120",
+    "focal_length": "840"
+  },
+  "Skywatcher Esprit ED 150 PRO": {
+    "aperture": "150",
+    "focal_length": "1050"
+  },
+  "Skywatcher Esprit ED 80 PRO": {
+    "aperture": "80",
+    "focal_length": "400"
+  },
+  "Skywatcher Evostar 100ED DS-Pro": {
+    "aperture": "100",
+    "focal_length": "900"
+  },
+  "Skywatcher Evostar 102": {
+    "aperture": "102",
+    "focal_length": "1000"
+  },
+  "Skywatcher Evostar 120 ": {
+    "aperture": "120",
+    "focal_length": "1000"
+  },
+  "Skywatcher Evostar 120ED DS-Pro": {
+    "aperture": "120",
+    "focal_length": "900"
+  },
+  "Skywatcher Evostar 150": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "Skywatcher Evostar 80ED DS Pro": {
+    "aperture": "80",
+    "focal_length": "600"
+  },
+  "Skywatcher Evostar 90": {
+    "aperture": "90",
+    "focal_length": "900"
+  },
+  "Skywatcher Explorer 130": {
+    "aperture": "130",
+    "focal_length": "900"
+  },
+  "Skywatcher Explorer 130P": {
+    "aperture": "130",
+    "focal_length": "650"
+  },
+  "Skywatcher Explorer 150P": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "Skywatcher Explorer 150PL": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "Skywatcher Explorer 190MN DS-PRO": {
+    "aperture": "190",
+    "focal_length": "1000"
+  },
+  "Skywatcher Explorer 200P": {
+    "aperture": "200",
+    "focal_length": "1000"
+  },
+  "Skywatcher Explorer 250P": {
+    "aperture": "250",
+    "focal_length": "1200"
+  },
+  "Skywatcher Mercury 705": {
+    "aperture": "70",
+    "focal_length": "500"
+  },
+  "Skywatcher Quattro f4 200": {
+    "aperture": "205",
+    "focal_length": "800"
+  },
+  "Skywatcher Quattro f4 250": {
+    "aperture": "254",
+    "focal_length": "1000"
+  },
+  "Skywatcher Skyhawk 1145P": {
+    "aperture": "114",
+    "focal_length": "500"
+  },
+  "Skywatcher Skyliner 200P": {
+    "aperture": "203",
+    "focal_length": "1200"
+  },
+  "Skywatcher Skyliner 250PX": {
+    "aperture": "254",
+    "focal_length": "1200"
+  },
+  "Skywatcher Skyliner 300P": {
+    "aperture": "305",
+    "focal_length": "1500"
+  },
+  "Skywatcher Skyliner 350P": {
+    "aperture": "355",
+    "focal_length": "1600"
+  },
+  "Skywatcher Skyliner 400P": {
+    "aperture": "406",
+    "focal_length": "1800"
+  },
+  "Skywatcher Skymax 102 ": {
+    "aperture": "102",
+    "focal_length": "1300"
+  },
+  "Skywatcher Skymax 127": {
+    "aperture": "127",
+    "focal_length": "1500"
+  },
+  "Skywatcher Skymax 150 PRO": {
+    "aperture": "150",
+    "focal_length": "1800"
+  },
+  "Skywatcher Skymax 180 PRO": {
+    "aperture": "180",
+    "focal_length": "2700"
+  },
+  "Skywatcher Skymax 90": {
+    "aperture": "90",
+    "focal_length": "1250"
+  },
+  "Skywatcher Startravel 102 ": {
+    "aperture": "102",
+    "focal_length": "500"
+  },
+  "Skywatcher Startravel 120": {
+    "aperture": "120",
+    "focal_length": "600"
+  },
+  "Skywatcher Startravel 150": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "Skywatcher Startravel 80": {
+    "aperture": "80",
+    "focal_length": "400"
+  },
+  "StarWave 102 ED": {
+    "aperture": "102",
+    "focal_length": "710"
+  },
+  "StarWave 110 ED": {
+    "aperture": "110",
+    "focal_length": "770"
+  },
+  "StarWave 80 ED": {
+    "aperture": "80",
+    "focal_length": "555"
+  },
+  "Stellarvue SV105": {
+    "aperture": "105",
+    "focal_length": "735"
+  },
+  "Stellarvue SV115": {
+    "aperture": "115",
+    "focal_length": "800"
+  },
+  "Stellarvue SV130": {
+    "aperture": "130",
+    "focal_length": "900"
+  },
+  "Stellarvue SV160": {
+    "aperture": "160",
+    "focal_length": "1280"
+  },
+  "Stellarvue SV50": {
+    "aperture": "50",
+    "focal_length": "330"
+  },
+  "Stellarvue SV80mm Apo Triplet": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Stellarvue SV90": {
+    "aperture": "90",
+    "focal_length": "630"
+  },
+  "Stellarvue SVQ100": {
+    "aperture": "100",
+    "focal_length": "580"
+  },
+  "Stellarvue SVR102": {
+    "aperture": "102",
+    "focal_length": "720"
+  },
+  "STF Mirage 7": {
+    "aperture": "180",
+    "focal_length": "1800"
+  },
+  "STF Mirage 8": {
+    "aperture": "203.2",
+    "focal_length": "2030"
+  },
+  "Takahashi C-400": {
+    "aperture": "400",
+    "focal_length": "5600"
+  },
+  "Takahashi CCA-250": {
+    "aperture": "250",
+    "focal_length": "1250"
+  },
+  "Takahashi CN212 (Cassegrain)": {
+    "aperture": "212",
+    "focal_length": "2630"
+  },
+  "Takahashi CN212 (Newtonian)": {
+    "aperture": "212",
+    "focal_length": "820"
+  },
+  "Takahashi Epsilon-130D": {
+    "aperture": "130",
+    "focal_length": "430"
+  },
+  "Takahashi Epsilon-180ED": {
+    "aperture": "180",
+    "focal_length": "500"
+  },
+  "Takahashi FCT-250": {
+    "aperture": "250",
+    "focal_length": "2500"
+  },
+  "Takahashi FET-300": {
+    "aperture": "300",
+    "focal_length": "2400"
+  },
+  "Takahashi FS-60CB": {
+    "aperture": "60",
+    "focal_length": "355"
+  },
+  "Takahashi FSQ-106ED": {
+    "aperture": "106",
+    "focal_length": "530"
+  },
+  "Takahashi FSQ-85EDX": {
+    "aperture": "85",
+    "focal_length": "450"
+  },
+  "Takahashi Mewlon-210": {
+    "aperture": "210",
+    "focal_length": "2415"
+  },
+  "Takahashi Mewlon-250": {
+    "aperture": "250",
+    "focal_length": "3000"
+  },
+  "Takahashi Mewlon-300": {
+    "aperture": "300",
+    "focal_length": "3572"
+  },
+  "Takahashi SKY-90": {
+    "aperture": "90",
+    "focal_length": "500"
+  },
+  "Takahashi TOA-130S/F": {
+    "aperture": "130",
+    "focal_length": "1000"
+  },
+  "Takahashi TOA-150": {
+    "aperture": "150",
+    "focal_length": "1100"
+  },
+  "Takahashi TSA-102N/S": {
+    "aperture": "102",
+    "focal_length": "816"
+  },
+  "Takahashi TSA-120": {
+    "aperture": "120",
+    "focal_length": "900"
+  },
+  "TAL 1": {
+    "aperture": "110",
+    "focal_length": "805"
+  },
+  "TAL 100R": {
+    "aperture": "100",
+    "focal_length": "1000"
+  },
+  "TAL 120": {
+    "aperture": "120",
+    "focal_length": "805"
+  },
+  "TAL 125R": {
+    "aperture": "125",
+    "focal_length": "1124"
+  },
+  "TAL 150K": {
+    "aperture": "150",
+    "focal_length": "1550"
+  },
+  "TAL 150P": {
+    "aperture": "150",
+    "focal_length": "750"
+  },
+  "TAL 150P8": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "TAL 2": {
+    "aperture": "150",
+    "focal_length": "1200"
+  },
+  "TAL 200K": {
+    "aperture": "200",
+    "focal_length": "2000"
+  },
+  "TAL 250K": {
+    "aperture": "250",
+    "focal_length": "2130"
+  },
+  "TAL 65": {
+    "aperture": "65",
+    "focal_length": "500"
+  },
+  "TAL M": {
+    "aperture": "80",
+    "focal_length": "526"
+  },
+  "TEC APO110FL": {
+    "aperture": "110",
+    "focal_length": "616"
+  },
+  "TEC APO140ED": {
+    "aperture": "140",
+    "focal_length": "980"
+  },
+  "TEC APO160FL": {
+    "aperture": "160",
+    "focal_length": "1120"
+  },
+  "TEC APO180FL": {
+    "aperture": "180",
+    "focal_length": "1260"
+  },
+  "Tele Vue 60": {
+    "aperture": "60",
+    "focal_length": "360"
+  },
+  "Tele Vue 76": {
+    "aperture": "76",
+    "focal_length": "480"
+  },
+  "Tele Vue 85": {
+    "aperture": "85",
+    "focal_length": "600"
+  },
+  "Tele Vue NP101": {
+    "aperture": "101",
+    "focal_length": "540"
+  },
+  "Tele Vue NP127is": {
+    "aperture": "127",
+    "focal_length": "660"
+  },
+  "Teleskop Service TS 50mm f/6.6 Doublet Refractor": {
+    "aperture": "50",
+    "focal_length": "330"
+  },
+  "Teleskop Service TS ED 102mm f/7 Refractor": {
+    "aperture": "102",
+    "focal_length": "715"
+  },
+  "Teleskop Service TS ED 70mm f/6 Refractor": {
+    "aperture": "70",
+    "focal_length": "420"
+  },
+  "Teleskop Service TS ED APO 110mm f/7 Refractor": {
+    "aperture": "110",
+    "focal_length": "770"
+  },
+  "Teleskop Service TS Imaging Star 100mm f/5.8 APO Quadruplet Astrograph": {
+    "aperture": "100",
+    "focal_length": "580"
+  },
+  "Teleskop Service TS Imaging Star 102mm f/5.1 APO Astrograph": {
+    "aperture": "102",
+    "focal_length": "520"
+  },
+  "Teleskop Service TS Imaging Star 65mm f/6.5 APO Quadruplet Astrograph": {
+    "aperture": "65",
+    "focal_length": "420"
+  },
+  "Teleskop Service TS Imaging Star 70mm f/6.78 Quadruplet ED": {
+    "aperture": "70",
+    "focal_length": "474"
+  },
+  "Teleskop Service TS Imaging Star 70mm f/6.78 Quadruplet ED": {
+    "aperture": "70",
+    "focal_length": "474"
+  },
+  "Teleskop Service TS Imaging Star 70mm f/6.78 Quadruplet ED": {
+    "aperture": "70",
+    "focal_length": "474"
+  },
+  "Teleskop Service TS Imaging Star 81mm f/4.2 APO Astrograph": {
+    "aperture": "81",
+    "focal_length": "340"
+  },
+  "Teleskop Service TS Photoline 102mm f/7 FPL-53 Triplet": {
+    "aperture": "102",
+    "focal_length": "715"
+  },
+  "Teleskop Service TS Photoline 107mm f/6.5 FPL 53 Triplet Super-APO": {
+    "aperture": "107",
+    "focal_length": "700"
+  },
+  "Teleskop Service TS Photoline 115mm f/6.96 FPL-53 Triplet APO": {
+    "aperture": "115",
+    "focal_length": "800"
+  },
+  "Teleskop Service TS Photoline 130mm f/6.62 FPL-53 Triplet Super-APO": {
+    "aperture": "130",
+    "focal_length": "860"
+  },
+  "Teleskop Service TS Photoline 130mm f/7 FPL-53 Triplet APO": {
+    "aperture": "130",
+    "focal_length": "910"
+  },
+  "Teleskop Service TS Photoline 150mm f/6.67 FPL-53 Triplet APO": {
+    "aperture": "150",
+    "focal_length": "1000"
+  },
+  "Teleskop Service TS Photoline 60 mm f/5.5 FPL-53 Apochromat ": {
+    "aperture": "60",
+    "focal_length": "330"
+  },
+  "Teleskop Service TS Photoline 80mm f/6.25 FPL-53 Triplet": {
+    "aperture": "80",
+    "focal_length": "500"
+  },
+  "Teleskop Service TS Photoline 90mm f/6.6 FPL-53 Triplet": {
+    "aperture": "90",
+    "focal_length": "600"
+  },
+  "Teleskop Service TS Triplet APO 80mm F6": {
+    "aperture": "80",
+    "focal_length": "480"
+  },
+  "Teleskop Service TS ED 80mm f/7 Refractor": {
+    "aperture": "80",
+    "focal_length": "560"
+  },
+  "TMB 130SS ": {
+    "aperture": "130",
+    "focal_length": "910"
+  },
+  "TMB 80SS ": {
+    "aperture": "80",
+    "focal_length": "504"
+  },
+  "TMB 92SS ": {
+    "aperture": "92",
+    "focal_length": "506"
+  },
+  "Vixen A105M": {
+    "aperture": "105",
+    "focal_length": "1000"
+  },
+  "Vixen A70Lf": {
+    "aperture": "70",
+    "focal_length": "900"
+  },
+  "Vixen A80M": {
+    "aperture": "80",
+    "focal_length": "910"
+  },
+  "Vixen AX103S": {
+    "aperture": "103",
+    "focal_length": "825"
+  },
+  "Vixen ED103S": {
+    "aperture": "103",
+    "focal_length": "795"
+  },
+  "Vixen ED115S": {
+    "aperture": "115",
+    "focal_length": "890"
+  },
+  "Vixen ED81S": {
+    "aperture": "81",
+    "focal_length": "625"
+  },
+  "Vixen NA140SSf": {
+    "aperture": "140",
+    "focal_length": "800"
+  },
+  "Vixen R130Sf": {
+    "aperture": "130",
+    "focal_length": "650"
+  },
+  "Vixen R200SS": {
+    "aperture": "200",
+    "focal_length": "800"
+  },
+  "Vixen VC200L": {
+    "aperture": "200",
+    "focal_length": "1800"
+  },
+  "Vixen VMC110L": {
+    "aperture": "110",
+    "focal_length": "1035"
+  },
+  "Vixen VMC200L": {
+    "aperture": "200",
+    "focal_length": "1950"
+  },
+  "Vixen VMC260L": {
+    "aperture": "260",
+    "focal_length": "3000"
+  },
+  "Vixen VSD100": {
+    "aperture": "100",
+    "focal_length": "380"
+  },
+  "William Optics FLT 110": {
+    "aperture": "110",
+    "focal_length": "770"
+  },
+  "William Optics FLT 123": {
+    "aperture": "123",
+    "focal_length": "738"
+  },
+  "William Optics FLT 132": {
+    "aperture": "132",
+    "focal_length": "925"
+  },
+  "William Optics FLT 151": {
+    "aperture": "151",
+    "focal_length": "998"
+  },
+  "William Optics FLT 158": {
+    "aperture": "158",
+    "focal_length": "1121"
+  },
+  "William Optics FLT 98 / 98SE": {
+    "aperture": "98",
+    "focal_length": "618"
+  },
+  "William Optics GT 102": {
+    "aperture": "102",
+    "focal_length": "703"
+  },
+  "William Optics GT 81": {
+    "aperture": "81",
+    "focal_length": "478"
+  },
+  "William Optics GTF 81": {
+    "aperture": "81",
+    "focal_length": "535"
+  },
+  "William Optics Megrez 120": {
+    "aperture": "120",
+    "focal_length": "900"
+  },
+  "William Optics Megrez 72": {
+    "aperture": "72",
+    "focal_length": "432"
+  },
+  "William Optics Megrez 90": {
+    "aperture": "90",
+    "focal_length": "558"
+  },
+  "William Optics WO-Star 71": {
+    "aperture": "71",
+    "focal_length": "350"
+  },
+  "William Optics ZenithStar 70 ": {
+    "aperture": "70",
+    "focal_length": "420"
+  },
+  "William Optics ZenithStar 71": {
+    "aperture": "71",
+    "focal_length": "418"
+  },
+  "William Optics ZenithStar 80 II ": {
+    "aperture": "80",
+    "focal_length": "545"
+  },
+  "Zhumell Aurora 70": {
+    "aperture": "70",
+    "focal_length": "900"
+  },
+  "Zhumell Eclipse 114": {
+    "aperture": "114",
+    "focal_length": "1000"
+  },
+  "Zhumell Kepler 152": {
+    "aperture": "152",
+    "focal_length": "1200"
+  },
+  "Zhumell Zenith 60×600": {
+    "aperture": "60",
+    "focal_length": "600"
+  },
+  "ZWO153 F4 Light Weight Newtonian": {
+    "aperture": "153",
+    "focal_length": "612"
+  },
+  "ZWO153 F5 Light Weight Newtonian": {
+    "aperture": "153",
+    "focal_length": "765"
+  },
+  "ZWO153 F6 Light Weight Newtonian": {
+    "aperture": "153",
+    "focal_length": "918"
+  },
+  "ZWO203P F4 Light Weight Newtonian": {
+    "aperture": "203",
+    "focal_length": "812"
+  },
+  "ZWO203P F5 Light Weight Newtonian": {
+    "aperture": "203",
+    "focal_length": "1015"
+  },
+  "ZWO204P F6 Light Weight Newtonian": {
+    "aperture": "203",
+    "focal_length": "1218"
+  },
+  "ZWO254 F4 Light Weight Newtonian": {
+    "aperture": "254",
+    "focal_length": "1016"
+  },
+  "ZWO254 F5 Light Weight Newtonian": {
+    "aperture": "254",
+    "focal_length": "1270"
+  },
+  "ZWO254 F6 Light Weight Newtonian": {
+    "aperture": "254",
+    "focal_length": "1524"
+  },
+  "ZWO305 F4 Light Weight Newtonian": {
+    "aperture": "305",
+    "focal_length": "1220"
+  },
+  "ZWO305 F5 Light Weight Newtonian": {
+    "aperture": "305",
+    "focal_length": "1525"
+  },
+  "ZWO305 F6 Light Weight Newtonian": {
+    "aperture": "305",
+    "focal_length": "1830"
+  },
+  "ZWO406 F4 Light Weight Newtonian": {
+    "aperture": "406",
+    "focal_length": "1624"
+  },
+  "ZWO406 F4.5 Light Weight Newtonian": {
+    "aperture": "406",
+    "focal_length": "1827"
+  }
+}

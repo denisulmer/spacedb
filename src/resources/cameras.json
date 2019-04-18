@@ -1,0 +1,2914 @@
+{
+   "Altair GPCAM AR0130C COLOUR":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "Altair GPCAM MT9M034M MONO":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "Apogee Alta F230":{
+      "pixelWidth":"15",
+      "pixelHeight":"15",
+      "ccdWidth":"30.72",
+      "ccdHeight":"30.72",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F30 / F30-OE / U30-OE":{
+      "pixelWidth":"26",
+      "pixelHeight":"26",
+      "ccdWidth":"26.62",
+      "ccdHeight":"6.66",
+      "resolutionX":"1024",
+      "resolutionY":"256"
+   },
+   "Apogee Alta F42 / F42UV":{
+      "pixelWidth":"13.5",
+      "pixelHeight":"13.5",
+      "ccdWidth":"27.65",
+      "ccdHeight":"27.65",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F47":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "Apogee Alta F77":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"12.29",
+      "ccdHeight":"12.29",
+      "resolutionX":"512",
+      "resolutionY":"512"
+   },
+   "Apogee Alta F1 / U1":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"6.91",
+      "ccdHeight":"4.61",
+      "resolutionX":"768",
+      "resolutionY":"512"
+   },
+   "Apogee Alta F1007":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"1.46",
+      "resolutionX":"1024",
+      "resolutionY":"122"
+   },
+   "Apogee Alta F1008":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"3",
+      "resolutionX":"1024",
+      "resolutionY":"250"
+   },
+   "Apogee Alta F1009":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"6.07",
+      "resolutionX":"1024",
+      "resolutionY":"506"
+   },
+   "Apogee Alta F1107":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"6.14",
+      "ccdHeight":"1.46",
+      "resolutionX":"512",
+      "resolutionY":"122"
+   },
+   "Apogee Alta F1108":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"3",
+      "resolutionX":"1024",
+      "resolutionY":"250"
+   },
+   "Apogee Alta&nbsp;F1109":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"24.58",
+      "ccdHeight":"6.07",
+      "resolutionX":"2048",
+      "resolutionY":"506"
+   },
+   "Apogee Alta F16":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "Apogee Alta F16000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"36.05",
+      "ccdHeight":"24.04",
+      "resolutionX":"4872",
+      "resolutionY":"3248"
+   },
+   "Apogee Alta F16M / U16 / U16M":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "Apogee Alta F2 / U2":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"13.82",
+      "ccdHeight":"9.22",
+      "resolutionX":"1536",
+      "resolutionY":"1024"
+   },
+   "Apogee Alta F2000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"11.84",
+      "ccdHeight":"8.88",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "Apogee Alta F260 / U260":{
+      "pixelWidth":"20",
+      "pixelHeight":"20",
+      "ccdWidth":"10.24",
+      "ccdHeight":"10.24",
+      "resolutionX":"512",
+      "resolutionY":"512"
+   },
+   "Apogee Alta F29050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"36.17",
+      "ccdHeight":"24.11",
+      "resolutionX":"6576",
+      "resolutionY":"4384"
+   },
+   "Apogee Alta F3041 / U3041F":{
+      "pixelWidth":"15",
+      "pixelHeight":"15",
+      "ccdWidth":"30.72",
+      "ccdHeight":"30.2",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F32 / U32":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"14.85",
+      "ccdHeight":"10.01",
+      "resolutionX":"2184",
+      "resolutionY":"1472"
+   },
+   "Apogee Alta F4000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F43":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"49.15",
+      "ccdHeight":"49.15",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F4320 / U43":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"49.15",
+      "ccdHeight":"49.15",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F50":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"49.06",
+      "ccdHeight":"36.79",
+      "resolutionX":"8176",
+      "resolutionY":"6132"
+   },
+   "Apogee Alta F6 / U6":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"24.58",
+      "ccdHeight":"24.58",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "Apogee Alta F8300 / U8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Apogee Alta F9 / U9":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"27.65",
+      "ccdHeight":"18.43",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta F9000 / U9000":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"36.7",
+      "ccdHeight":"36.7",
+      "resolutionX":"3058",
+      "resolutionY":"3058"
+   },
+   "Apogee Alta U10":{
+      "pixelWidth":"14",
+      "pixelHeight":"14",
+      "ccdWidth":"28.67",
+      "ccdHeight":"28.67",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Alta U39000":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"49.07",
+      "ccdHeight":"36.8",
+      "resolutionX":"7216",
+      "resolutionY":"5412"
+   },
+   "Apogee Ascent A1050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"5.63",
+      "ccdHeight":"5.3",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "Apogee Ascent A16000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"36.05",
+      "ccdHeight":"24.04",
+      "resolutionX":"4872",
+      "resolutionY":"3248"
+   },
+   "Apogee Ascent A16050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"26.93",
+      "ccdHeight":"17.95",
+      "resolutionX":"4896",
+      "resolutionY":"3264"
+   },
+   "Apogee Ascent A2000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"11.84",
+      "ccdHeight":"8.88",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "Apogee Ascent A205":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"6.32",
+      "ccdHeight":"4.76",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Apogee Ascent A2050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"8.8",
+      "ccdHeight":"6.6",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "Apogee Ascent A2150":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"10.56",
+      "ccdHeight":"5.94",
+      "resolutionX":"1920",
+      "resolutionY":"1080"
+   },
+   "Apogee Ascent A285":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.66",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Apogee Ascent A29050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"36.17",
+      "ccdHeight":"24.11",
+      "resolutionX":"6576",
+      "resolutionY":"4384"
+   },
+   "Apogee Ascent A340":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.74",
+      "ccdHeight":"3.55",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "Apogee Ascent A4000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Ascent A4050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"12.85",
+      "ccdHeight":"9.64",
+      "resolutionX":"2336",
+      "resolutionY":"1752"
+   },
+   "Apogee Ascent A694":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "Apogee Ascent A8050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"18.13",
+      "ccdHeight":"13.6",
+      "resolutionX":"3296",
+      "resolutionY":"2472"
+   },
+   "Apogee Aspen CG1670":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"35.99",
+      "ccdHeight":"23.92",
+      "resolutionX":"4864",
+      "resolutionY":"3232"
+   },
+   "Apogee Aspen CG16M":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "Apogee Aspen CG230":{
+      "pixelWidth":"15",
+      "pixelHeight":"15",
+      "ccdWidth":"30.72",
+      "ccdHeight":"30.72",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Aspen CG42":{
+      "pixelWidth":"13.5",
+      "pixelHeight":"13.5",
+      "ccdWidth":"27.65",
+      "ccdHeight":"27.65",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Apogee Aspen CG47":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "Apogee Aspen CG6":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"24.58",
+      "ccdHeight":"24.58",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "Apogee Aspen CG8050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"18.13",
+      "ccdHeight":"13.6",
+      "resolutionX":"3296",
+      "resolutionY":"2472"
+   },
+   "Apogee Aspen CG8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Apogee Aspen CG9":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"27.65",
+      "ccdHeight":"18.43",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "Apogee Aspen CG9000":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"36.7",
+      "ccdHeight":"36.7",
+      "resolutionX":"3058",
+      "resolutionY":"3058"
+   },
+   "Artemis ART-254 / ART-254C":{
+      "pixelWidth":"9.6",
+      "pixelHeight":"7.5",
+      "ccdWidth":"4.9",
+      "ccdHeight":"3.69",
+      "resolutionX":"510",
+      "resolutionY":"492"
+   },
+   "Artemis ART-255 / ART-255C":{
+      "pixelWidth":"9.8",
+      "pixelHeight":"6.3",
+      "ccdWidth":"4.9",
+      "ccdHeight":"3.67",
+      "resolutionX":"500",
+      "resolutionY":"582"
+   },
+   "Artemis ART-285 / ART-285C":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Artemis ART-424 / ART-424C":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.88",
+      "ccdHeight":"3.66",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "Artemis ART-429 / ART-429C":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Atik 11000":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "Atik 16":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Atik 16HR":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Atik 16IC / 16IC (Color)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.88",
+      "ccdHeight":"3.66",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "Atik 16IC-S / 16IC-S (Color)":{
+      "pixelWidth":"8.3",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.49",
+      "ccdHeight":"4.83",
+      "resolutionX":"782",
+      "resolutionY":"582"
+   },
+   "Atik 1HS II / Atik 1C":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.58",
+      "ccdHeight":"2.69",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "Atik 2HS / Atik 2C":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.88",
+      "ccdHeight":"3.66",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "Atik 314E":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"6.32",
+      "ccdHeight":"4.76",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Atik 314L+":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Atik 320E / 420":{
+      "pixelWidth":"4.4",
+      "pixelHeight":"4.4",
+      "ccdWidth":"7.13",
+      "ccdHeight":"5.37",
+      "resolutionX":"1620",
+      "resolutionY":"1220"
+   },
+   "Atik 383L+":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Atik 4000 / 4000LE":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Atik 4120EX":{
+      "pixelWidth":"3.1",
+      "pixelHeight":"3.1",
+      "ccdWidth":"13.15",
+      "ccdHeight":"8.77",
+      "resolutionX":"4242",
+      "resolutionY":"2830"
+   },
+   "Atik 414EX":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Atik 428EX":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "Atik 450":{
+      "pixelWidth":"3.45",
+      "pixelHeight":"3.45",
+      "ccdWidth":"8.45",
+      "ccdHeight":"7.07",
+      "resolutionX":"2448",
+      "resolutionY":"2050"
+   },
+   "Atik 460EX":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "Atik 490EX":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "Atik GP Guider/Planetary Camera":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.86",
+      "ccdHeight":"3.62",
+      "resolutionX":"1296",
+      "resolutionY":"966"
+   },
+   "Atik One 6.0 Mono Camera":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "Atik One 9.0 Mono Camera":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "Atik Titan":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.88",
+      "ccdHeight":"3.66",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "Canon EOS-1000D /  Rebel XS / Rebel XTi":{
+      "pixelWidth":"5.7",
+      "pixelHeight":"5.7",
+      "ccdWidth":"22.16",
+      "ccdHeight":"14.77",
+      "resolutionX":"3888",
+      "resolutionY":"2592"
+   },
+   "Canon EOS-100D / Rebel SL1 / T2i / T3i / T4i / T5i":{
+      "pixelWidth":"4.3",
+      "pixelHeight":"4.3",
+      "ccdWidth":"22.29",
+      "ccdHeight":"14.86",
+      "resolutionX":"5184",
+      "resolutionY":"3456"
+   },
+   "Canon EOS-10D / 300D  / D60 / Digital Rebel":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"22.73",
+      "ccdHeight":"15.16",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "Canon EOS-1100D / 450D /  Rebel T3 / Rebel Xsi":{
+      "pixelWidth":"5.2",
+      "pixelHeight":"5.2",
+      "ccdWidth":"22.21",
+      "ccdHeight":"14.81",
+      "resolutionX":"4272",
+      "resolutionY":"2848"
+   },
+   "Canon EOS-1200D / Rebel T5":{
+      "pixelWidth":"4.3",
+      "pixelHeight":"4.3",
+      "ccdWidth":"22.29",
+      "ccdHeight":"14.86",
+      "resolutionX":"5184",
+      "resolutionY":"3456"
+   },
+   "Canon EOS-1D":{
+      "pixelWidth":"10.8",
+      "pixelHeight":"10.8",
+      "ccdWidth":"26.61",
+      "ccdHeight":"17.8",
+      "resolutionX":"2464",
+      "resolutionY":"1648"
+   },
+   "Canon EOS-1D C / 1D X":{
+      "pixelWidth":"6.9",
+      "pixelHeight":"6.9",
+      "ccdWidth":"35.77",
+      "ccdHeight":"23.85",
+      "resolutionX":"5184",
+      "resolutionY":"3456"
+   },
+   "Canon EOS-1D Mark II / 1D Mark II N":{
+      "pixelWidth":"8.2",
+      "pixelHeight":"8.2",
+      "ccdWidth":"28.73",
+      "ccdHeight":"19.16",
+      "resolutionX":"3504",
+      "resolutionY":"2336"
+   },
+   "Canon EOS-1D Mark III":{
+      "pixelWidth":"7.2",
+      "pixelHeight":"7.2",
+      "ccdWidth":"27.99",
+      "ccdHeight":"18.66",
+      "resolutionX":"3888",
+      "resolutionY":"2592"
+   },
+   "Canon EOS-1D Mark IV":{
+      "pixelWidth":"5.7",
+      "pixelHeight":"5.7",
+      "ccdWidth":"27.91",
+      "ccdHeight":"18.6",
+      "resolutionX":"4896",
+      "resolutionY":"3264"
+   },
+   "Canon EOS-1D S":{
+      "pixelWidth":"8.8",
+      "pixelHeight":"8.8",
+      "ccdWidth":"35.76",
+      "ccdHeight":"23.8",
+      "resolutionX":"4064",
+      "resolutionY":"2704"
+   },
+   "Canon EOS-1D S Mark II":{
+      "pixelWidth":"7.2",
+      "pixelHeight":"7.2",
+      "ccdWidth":"35.94",
+      "ccdHeight":"23.96",
+      "resolutionX":"4992",
+      "resolutionY":"3328"
+   },
+   "Canon EOS-1D S Mark III / 5D Mark II":{
+      "pixelWidth":"6.4",
+      "pixelHeight":"6.4",
+      "ccdWidth":"35.94",
+      "ccdHeight":"23.96",
+      "resolutionX":"5616",
+      "resolutionY":"3744"
+   },
+   "Canon EOS-20D / 20Da / 30D":{
+      "pixelWidth":"6.4",
+      "pixelHeight":"6.4",
+      "ccdWidth":"22.43",
+      "ccdHeight":"14.95",
+      "resolutionX":"3504",
+      "resolutionY":"2336"
+   },
+   "Canon EOS-350D / Digital Rebel XT":{
+      "pixelWidth":"6.4",
+      "pixelHeight":"6.4",
+      "ccdWidth":"22.12",
+      "ccdHeight":"14.75",
+      "resolutionX":"3456",
+      "resolutionY":"2304"
+   },
+   "Canon EOS-40D / 400D":{
+      "pixelWidth":"5.7",
+      "pixelHeight":"5.7",
+      "ccdWidth":"22.16",
+      "ccdHeight":"14.77",
+      "resolutionX":"3888",
+      "resolutionY":"2592"
+   },
+   "Canon EOS-50D / 500D / Rebel T1i":{
+      "pixelWidth":"4.7",
+      "pixelHeight":"4.7",
+      "ccdWidth":"22.33",
+      "ccdHeight":"14.89",
+      "resolutionX":"4752",
+      "resolutionY":"3168"
+   },
+   "Canon EOS-550D / 60D / 60Da / 600D / 650D / 7D / 700D ":{
+      "pixelWidth":"4.3",
+      "pixelHeight":"4.3",
+      "ccdWidth":"22.29",
+      "ccdHeight":"14.86",
+      "resolutionX":"5184",
+      "resolutionY":"3456"
+   },
+   "Canon EOS-5D":{
+      "pixelWidth":"8.2",
+      "pixelHeight":"8.2",
+      "ccdWidth":"35.82",
+      "ccdHeight":"23.88",
+      "resolutionX":"4368",
+      "resolutionY":"2912"
+   },
+   "Canon EOS-5D Mark II":{
+      "pixelWidth":"6.4",
+      "pixelHeight":"6.4",
+      "ccdWidth":"35.8",
+      "ccdHeight":"23.9",
+      "resolutionX":"5616",
+      "resolutionY":"3744"
+   },
+   "Canon EOS-5D Mark III":{
+      "pixelWidth":"6.25",
+      "pixelHeight":"6.25",
+      "ccdWidth":"36",
+      "ccdHeight":"24",
+      "resolutionX":"5760",
+      "resolutionY":"3840"
+   },
+   "Canon EOS-6D":{
+      "pixelWidth":"6.54",
+      "pixelHeight":"6.54",
+      "ccdWidth":"35.79",
+      "ccdHeight":"23.86",
+      "resolutionX":"5472",
+      "resolutionY":"3648"
+   },
+   "Canon EOS-70D":{
+      "pixelWidth":"4.1",
+      "pixelHeight":"4.1",
+      "ccdWidth":"22.5",
+      "ccdHeight":"15",
+      "resolutionX":"5472",
+      "resolutionY":"3648"
+   },
+   "Canon EOS-7D Mark II":{
+      "pixelWidth":"4.1",
+      "pixelHeight":"4.1",
+      "ccdWidth":"22.4",
+      "ccdHeight":"15",
+      "resolutionX":"5472",
+      "resolutionY":"3648"
+   },
+   "Canon EOS-D30":{
+      "pixelWidth":"9.9",
+      "pixelHeight":"9.9",
+      "ccdWidth":"21.38",
+      "ccdHeight":"14.26",
+      "resolutionX":"2160",
+      "resolutionY":"1440"
+   },
+   "Celestron NexGuide Autoguider":{
+      "pixelWidth":"9.6",
+      "pixelHeight":"7.5",
+      "ccdWidth":"5.6",
+      "ccdHeight":"4.7",
+      "resolutionX":"583",
+      "resolutionY":"627"
+   },
+   "Celestron NexImage":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.58",
+      "ccdHeight":"2.69",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "Celestron NexImage 5":{
+      "pixelWidth":"2.2",
+      "pixelHeight":"2.2",
+      "ccdWidth":"5.7",
+      "ccdHeight":"4.28",
+      "resolutionX":"2592",
+      "resolutionY":"1944"
+   },
+   "Celestron Nightscape":{
+      "pixelWidth":"4.75",
+      "pixelHeight":"4.75",
+      "ccdWidth":"17.86",
+      "ccdHeight":"13.49",
+      "resolutionX":"3760",
+      "resolutionY":"2840"
+   },
+   "Celestron Nightscape 8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Fishcamp Starfish Guider / Standard":{
+      "pixelWidth":"5.2",
+      "pixelHeight":"5.2",
+      "ccdWidth":"6.66",
+      "ccdHeight":"5.32",
+      "resolutionX":"1280",
+      "resolutionY":"1024"
+   },
+   "FLI HP4710 Broadband / Midband / UV / Deep Depletion":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI HP8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "FLI HPx285":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "FLI ML0340 Midband / UV":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.74",
+      "ccdHeight":"3.55",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "FLI ML09000":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"36.7",
+      "ccdHeight":"36.7",
+      "resolutionX":"3058",
+      "resolutionY":"3058"
+   },
+   "FLI ML1001":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"24.58",
+      "ccdHeight":"24.58",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI ML1007 Spectroscopy":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"1.46",
+      "resolutionX":"1024",
+      "resolutionY":"122"
+   },
+   "FLI ML1008 Spectroscopy":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"3",
+      "resolutionX":"1024",
+      "resolutionY":"250"
+   },
+   "FLI ML1009 Spectroscopy":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"12.29",
+      "ccdHeight":"6.07",
+      "resolutionX":"1024",
+      "resolutionY":"506"
+   },
+   "FLI ML1050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"5.63",
+      "ccdHeight":"5.3",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI ML11002":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "FLI ML1107 Spectroscopy":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"24.58",
+      "ccdHeight":"1.46",
+      "resolutionX":"2048",
+      "resolutionY":"122"
+   },
+   "FLI ML1108 Spectroscopy":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"24.58",
+      "ccdHeight":"3",
+      "resolutionX":"2048",
+      "resolutionY":"250"
+   },
+   "FLI ML1109 Spectroscopy":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"24.58",
+      "ccdHeight":"6.07",
+      "resolutionX":"2048",
+      "resolutionY":"506"
+   },
+   "FLI ML16000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"36.05",
+      "ccdHeight":"24.04",
+      "resolutionX":"4872",
+      "resolutionY":"3248"
+   },
+   "FLI ML1603":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"13.82",
+      "ccdHeight":"9.22",
+      "resolutionX":"1536",
+      "resolutionY":"1024"
+   },
+   "FLI ML16050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"26.93",
+      "ccdHeight":"17.95",
+      "resolutionX":"4896",
+      "resolutionY":"3264"
+   },
+   "FLI ML16070":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"35.99",
+      "ccdHeight":"23.92",
+      "resolutionX":"4864",
+      "resolutionY":"3232"
+   },
+   "FLI ML16801":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "FLI ML16803":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "FLI ML2020":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"11.84",
+      "ccdHeight":"8.88",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "FLI ML2050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"8.8",
+      "ccdHeight":"6.6",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "FLI ML2150":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"10.56",
+      "ccdHeight":"5.94",
+      "resolutionX":"1920",
+      "resolutionY":"1080"
+   },
+   "FLI ML230 Midband / 23402 Midband / Broadband":{
+      "pixelWidth":"15",
+      "pixelHeight":"15",
+      "ccdWidth":"30.72",
+      "ccdHeight":"30.72",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI ML230-F":{
+      "pixelWidth":"15",
+      "pixelHeight":"15",
+      "ccdWidth":"30.72",
+      "ccdHeight":"30.72",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI ML29050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"36.17",
+      "ccdHeight":"24.11",
+      "resolutionX":"6576",
+      "resolutionY":"4384"
+   },
+   "FLI ML3200":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"14.85",
+      "ccdHeight":"10.01",
+      "resolutionX":"2184",
+      "resolutionY":"1472"
+   },
+   "FLI ML402":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"6.91",
+      "ccdHeight":"4.61",
+      "resolutionX":"768",
+      "resolutionY":"512"
+   },
+   "FLI ML4022":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI ML4050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"12.85",
+      "ccdHeight":"9.64",
+      "resolutionX":"2336",
+      "resolutionY":"1752"
+   },
+   "FLI ML4070":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI ML4240 Midband / UV":{
+      "pixelWidth":"13.5",
+      "pixelHeight":"13.5",
+      "ccdWidth":"27.65",
+      "ccdHeight":"27.65",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI ML4710 Broadband / Midband / UV / Deep Depletion":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI ML4720 Midband / UV":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI ML50100":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"49.06",
+      "ccdHeight":"36.79",
+      "resolutionX":"8176",
+      "resolutionY":"6132"
+   },
+   "FLI ML6303":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"27.65",
+      "ccdHeight":"18.43",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "FLI ML77 Midband":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"12.29",
+      "ccdHeight":"12.29",
+      "resolutionX":"512",
+      "resolutionY":"512"
+   },
+   "FLI ML8050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"18.13",
+      "ccdHeight":"13.6",
+      "resolutionX":"3296",
+      "resolutionY":"2472"
+   },
+   "FLI ML8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "FLI MLx205":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"6.32",
+      "ccdHeight":"4.76",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "FLI MLx285":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "FLI MLx674":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "FLI MLx694":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "FLI PL09000 / LDR":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"36.7",
+      "ccdHeight":"36.7",
+      "resolutionX":"3058",
+      "resolutionY":"3058"
+   },
+   "FLI PL1001":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"24.58",
+      "ccdHeight":"24.58",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI PL11002":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "FLI PL11002-1-C":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "FLI PL16000":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"36.05",
+      "ccdHeight":"24.04",
+      "resolutionX":"4872",
+      "resolutionY":"3248"
+   },
+   "FLI PL16050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"26.93",
+      "ccdHeight":"17.95",
+      "resolutionX":"4896",
+      "resolutionY":"3264"
+   },
+   "FLI PL16070":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"35.99",
+      "ccdHeight":"23.92",
+      "resolutionX":"4864",
+      "resolutionY":"3232"
+   },
+   "FLI PL16801":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "FLI PL16803 / LDR":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "FLI PL230 Midband":{
+      "pixelWidth":"15",
+      "pixelHeight":"15",
+      "ccdWidth":"30.72",
+      "ccdHeight":"30.72",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI PL29050":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"36.17",
+      "ccdHeight":"24.11",
+      "resolutionX":"6576",
+      "resolutionY":"4384"
+   },
+   "FLI PL31600-C":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"44.17",
+      "ccdHeight":"33.13",
+      "resolutionX":"6496",
+      "resolutionY":"4872"
+   },
+   "FLI PL4240 Midband / UV":{
+      "pixelWidth":"13.5",
+      "pixelHeight":"13.5",
+      "ccdWidth":"27.65",
+      "ccdHeight":"27.65",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI PL4301":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"49.15",
+      "ccdHeight":"49.15",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "FLI PL4710 Broadband / Midband / UV / Deep Depletion":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI PL4720":{
+      "pixelWidth":"13",
+      "pixelHeight":"13",
+      "ccdWidth":"13.31",
+      "ccdHeight":"13.31",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "FLI PL50100":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"49.06",
+      "ccdHeight":"36.79",
+      "resolutionX":"8176",
+      "resolutionY":"6132"
+   },
+   "FLI PL77 Midband":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"12.29",
+      "ccdHeight":"12.29",
+      "resolutionX":"512",
+      "resolutionY":"512"
+   },
+   "Imaging Source DBK/DFK/DMK 21AU04.AS":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.58",
+      "ccdHeight":"2.69",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "Imaging Source DBK/DFK/DMK 21AU618.AS":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.58",
+      "ccdHeight":"2.69",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "Imaging Source DBK/DFK/DMK 31AU03.AS":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"4.76",
+      "ccdHeight":"3.57",
+      "resolutionX":"1024",
+      "resolutionY":"768"
+   },
+   "Imaging Source DBK/DFK/DMK 41AU02.AS":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"5.95",
+      "ccdHeight":"4.46",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "Imaging Source DBK/DFK/DMK 51AU02.AS":{
+      "pixelWidth":"4.4",
+      "pixelHeight":"4.4",
+      "ccdWidth":"7.04",
+      "ccdHeight":"5.28",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "iNova PLA-C2 / NBA-C2 / NBA-M":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.58",
+      "ccdHeight":"2.69",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "iNova PLA-Mx / NBA-MX":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.69",
+      "ccdHeight":"2.77",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "iNova PLB-C2 / NBB-C2":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"4.76",
+      "ccdHeight":"3.57",
+      "resolutionX":"1024",
+      "resolutionY":"768"
+   },
+   "iNova PLB-Mx / NBB-MX":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.86",
+      "ccdHeight":"3.62",
+      "resolutionX":"1296",
+      "resolutionY":"966"
+   },
+   "iNova PLB-Mx2 / NBB-Cx / NBB-Mx2":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "Meade DSI / DSI Pro":{
+      "pixelWidth":"9.6",
+      "pixelHeight":"7.5",
+      "ccdWidth":"4.9",
+      "ccdHeight":"3.69",
+      "resolutionX":"510",
+      "resolutionY":"492"
+   },
+   "Meade DSI II":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Moravian Instruments G0-0300 / G1-0300 (inc. C)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.88",
+      "ccdHeight":"3.66",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "Moravian Instruments G0-0800 / G1-0800 (inc. C)":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"4.76",
+      "ccdHeight":"3.57",
+      "resolutionX":"1024",
+      "resolutionY":"768"
+   },
+   "Moravian Instruments G0-2000 / G1-2000 (inc. C)":{
+      "pixelWidth":"4.4",
+      "pixelHeight":"4.4",
+      "ccdWidth":"7.13",
+      "ccdHeight":"5.37",
+      "resolutionX":"1620",
+      "resolutionY":"1220"
+   },
+   "Moravian Instruments G1-1200 (inc. C)":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.86",
+      "ccdHeight":"3.62",
+      "resolutionX":"1296",
+      "resolutionY":"966"
+   },
+   "Moravian Instruments G1-1400 (inc. C)":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Moravian Instruments G2-0402 / G2-1600":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"6.91",
+      "ccdHeight":"4.61",
+      "resolutionX":"768",
+      "resolutionY":"512"
+   },
+   "Moravian Instruments G2-2000 (inc. C)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"11.84",
+      "ccdHeight":"8.88",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "Moravian Instruments G2-3200":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"14.85",
+      "ccdHeight":"10.01",
+      "resolutionX":"2184",
+      "resolutionY":"1472"
+   },
+   "Moravian Instruments G2-4000 (inc. C)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Moravian Instruments G2-8300 (inc. C)":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Moravian Instruments G3-01000":{
+      "pixelWidth":"24",
+      "pixelHeight":"24",
+      "ccdWidth":"24.58",
+      "ccdHeight":"24.58",
+      "resolutionX":"1024",
+      "resolutionY":"1024"
+   },
+   "Moravian Instruments G3-06300":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"27.65",
+      "ccdHeight":"18.43",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "Moravian Instruments G3-11000 (inc. C)":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "Moravian Instruments G4-16000":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "Moravian Instruments G4-9000":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"36.7",
+      "ccdHeight":"36.7",
+      "resolutionX":"3058",
+      "resolutionY":"3058"
+   },
+   "Nikon D1 / D1H":{
+      "pixelWidth":"11.8",
+      "pixelHeight":"11.8",
+      "ccdWidth":"23.74",
+      "ccdHeight":"15.62",
+      "resolutionX":"2012",
+      "resolutionY":"1324"
+   },
+   "Nikon D1X / D40 / D50 / D70 / D70s / D100":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.46",
+      "ccdHeight":"15.6",
+      "resolutionX":"3008",
+      "resolutionY":"2000"
+   },
+   "Nikon D2H / D2Hs":{
+      "pixelWidth":"9.4",
+      "pixelHeight":"9.4",
+      "ccdWidth":"23.16",
+      "ccdHeight":"15.34",
+      "resolutionX":"2464",
+      "resolutionY":"1632"
+   },
+   "Nikon D2X / D2Xs / D300 / D300s / D5000 / D90":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"23.58",
+      "ccdHeight":"15.66",
+      "resolutionX":"4288",
+      "resolutionY":"2848"
+   },
+   "Nikon D3 / D3S / D700":{
+      "pixelWidth":"8.45",
+      "pixelHeight":"8.45",
+      "ccdWidth":"35.96",
+      "ccdHeight":"23.93",
+      "resolutionX":"4256",
+      "resolutionY":"2832"
+   },
+   "Nikon D3000":{
+      "pixelWidth":"6.05",
+      "pixelHeight":"6.05",
+      "ccdWidth":"23.43",
+      "ccdHeight":"15.68",
+      "resolutionX":"3872",
+      "resolutionY":"2592"
+   },
+   "Nikon D3100":{
+      "pixelWidth":"5",
+      "pixelHeight":"5",
+      "ccdWidth":"23.04",
+      "ccdHeight":"15.36",
+      "resolutionX":"4608",
+      "resolutionY":"3072"
+   },
+   "Nikon D3200 / D5200 / D7100":{
+      "pixelWidth":"3.9",
+      "pixelHeight":"3.9",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"6000",
+      "resolutionY":"4000"
+   },
+   "Nikon D3X":{
+      "pixelWidth":"5.94",
+      "pixelHeight":"5.94",
+      "ccdWidth":"35.93",
+      "ccdHeight":"23.95",
+      "resolutionX":"6048",
+      "resolutionY":"4032"
+   },
+   "Nikon D4":{
+      "pixelWidth":"7.3",
+      "pixelHeight":"7.3",
+      "ccdWidth":"35.97",
+      "ccdHeight":"23.94",
+      "resolutionX":"4928",
+      "resolutionY":"3280"
+   },
+   "Nikon D40x / D60 / D80 / D200 ":{
+      "pixelWidth":"5.81",
+      "pixelHeight":"5.81",
+      "ccdWidth":"22.5",
+      "ccdHeight":"15.06",
+      "resolutionX":"3872",
+      "resolutionY":"2592"
+   },
+   "Nikon D5100 / D7000":{
+      "pixelWidth":"4.8",
+      "pixelHeight":"4.8",
+      "ccdWidth":"23.65",
+      "ccdHeight":"15.67",
+      "resolutionX":"4928",
+      "resolutionY":"3264"
+   },
+   "Nikon D600":{
+      "pixelWidth":"5.9",
+      "pixelHeight":"5.9",
+      "ccdWidth":"35.49",
+      "ccdHeight":"23.69",
+      "resolutionX":"6016",
+      "resolutionY":"4016"
+   },
+   "Nikon D800&nbsp;/ D800E":{
+      "pixelWidth":"4.9",
+      "pixelHeight":"4.9",
+      "ccdWidth":"36.06",
+      "ccdHeight":"24.07",
+      "resolutionX":"7360",
+      "resolutionY":"4912"
+   },
+   "Olympus E-1":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"17.41",
+      "ccdHeight":"13.06",
+      "resolutionX":"2560",
+      "resolutionY":"1920"
+   },
+   "Olympus E-3":{
+      "pixelWidth":"4.72",
+      "pixelHeight":"4.72",
+      "ccdWidth":"17.22",
+      "ccdHeight":"12.91",
+      "resolutionX":"3648",
+      "resolutionY":"2736"
+   },
+   "Olympus E-30":{
+      "pixelWidth":"4.28",
+      "pixelHeight":"4.28",
+      "ccdWidth":"17.26",
+      "ccdHeight":"12.94",
+      "resolutionX":"4032",
+      "resolutionY":"3024"
+   },
+   "Olympus E-300 / EVOLT E-300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.63",
+      "ccdHeight":"13.22",
+      "resolutionX":"3264",
+      "resolutionY":"2448"
+   },
+   "Olympus E-330":{
+      "pixelWidth":"5.32",
+      "pixelHeight":"5.32",
+      "ccdWidth":"16.68",
+      "ccdHeight":"12.51",
+      "resolutionX":"3136",
+      "resolutionY":"2352"
+   },
+   "Olympus E-400 / 410 / 420 / 450 / EVOLT E-410":{
+      "pixelWidth":"4.74",
+      "pixelHeight":"4.74",
+      "ccdWidth":"17.29",
+      "ccdHeight":"12.97",
+      "resolutionX":"3648",
+      "resolutionY":"2736"
+   },
+   "Olympus E-5":{
+      "pixelWidth":"4.28",
+      "pixelHeight":"4.28",
+      "ccdWidth":"17.26",
+      "ccdHeight":"12.94",
+      "resolutionX":"4032",
+      "resolutionY":"3024"
+   },
+   "Olympus E-500 / EVOLT E-500":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.63",
+      "ccdHeight":"13.22",
+      "resolutionX":"3264",
+      "resolutionY":"2448"
+   },
+   "Olympus E-510 / 520 / EVOLT E-510":{
+      "pixelWidth":"4.74",
+      "pixelHeight":"4.74",
+      "ccdWidth":"17.29",
+      "ccdHeight":"12.97",
+      "resolutionX":"3648",
+      "resolutionY":"2736"
+   },
+   "Olympus E-600 / 620":{
+      "pixelWidth":"4.28",
+      "pixelHeight":"4.28",
+      "ccdWidth":"17.26",
+      "ccdHeight":"12.94",
+      "resolutionX":"4032",
+      "resolutionY":"3024"
+   },
+   "Opticstar DS-142":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"6.32",
+      "ccdHeight":"4.76",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Opticstar DS-145":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Opticstar DS-335":{
+      "pixelWidth":"3.45",
+      "pixelHeight":"3.45",
+      "ccdWidth":"7.07",
+      "ccdHeight":"5.3",
+      "resolutionX":"2048",
+      "resolutionY":"1536"
+   },
+   "Opticstar DS-336":{
+      "pixelWidth":"3.45",
+      "pixelHeight":"3.45",
+      "ccdWidth":"7.07",
+      "ccdHeight":"5.3",
+      "resolutionX":"2048",
+      "resolutionY":"1536"
+   },
+   "Opticstar DS-616":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"3000",
+      "resolutionY":"2000"
+   },
+   "Orion Parsec 8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Orion StarShoot AutoGuider":{
+      "pixelWidth":"6.66",
+      "pixelHeight":"5.32",
+      "ccdWidth":"8.52",
+      "ccdHeight":"5.45",
+      "resolutionX":"1280",
+      "resolutionY":"1024"
+   },
+   "Orion StarShoot DS Monochrome Imager III ":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Orion StarShoot G3 ":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Orion StarShoot Pro V2 ":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"3000",
+      "resolutionY":"2000"
+   },
+   "Pentax K-5 / K-5 II / K-5 IIs / K-30":{
+      "pixelWidth":"4.78",
+      "pixelHeight":"4.78",
+      "ccdWidth":"23.56",
+      "ccdHeight":"15.6",
+      "resolutionX":"4928",
+      "resolutionY":"3264"
+   },
+   "Pentax K-m / K10D / K200D / K2000":{
+      "pixelWidth":"6.01",
+      "pixelHeight":"6.01",
+      "ccdWidth":"23.27",
+      "ccdHeight":"15.58",
+      "resolutionX":"3872",
+      "resolutionY":"2592"
+   },
+   "Pentax K-r / K-x":{
+      "pixelWidth":"5.49",
+      "pixelHeight":"5.49",
+      "ccdWidth":"23.54",
+      "ccdHeight":"15.64",
+      "resolutionX":"4288",
+      "resolutionY":"2848"
+   },
+   "Pentax K100D / K100D Super / K110D / *ist D / DL / DL2 / DS":{
+      "pixelWidth":"7.77",
+      "pixelHeight":"7.77",
+      "ccdWidth":"23.37",
+      "ccdHeight":"15.6",
+      "resolutionX":"3008",
+      "resolutionY":"2008"
+   },
+   "Pentax K20D / K-7":{
+      "pixelWidth":"5",
+      "pixelHeight":"5",
+      "ccdWidth":"23.36",
+      "ccdHeight":"15.52",
+      "resolutionX":"4672",
+      "resolutionY":"3104"
+   },
+   "QHY IMGOH":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"3.69",
+      "ccdHeight":"2.77",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "QHY IMG2PRO":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.97",
+      "ccdHeight":"6.71",
+      "resolutionX":"1390",
+      "resolutionY":"1040"
+   },
+   "QHY10":{
+      "pixelWidth":"6.05",
+      "pixelHeight":"6.05",
+      "ccdWidth":"23.6",
+      "ccdHeight":"15.83",
+      "resolutionX":"3900",
+      "resolutionY":"2616"
+   },
+   "QHY11":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "QHY12":{
+      "pixelWidth":"5.12",
+      "pixelHeight":"5.12",
+      "ccdWidth":"23.6",
+      "ccdHeight":"15.77",
+      "resolutionX":"4610",
+      "resolutionY":"3080"
+   },
+   "QHY16200A":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"27.24",
+      "ccdHeight":"21.78",
+      "resolutionX":"4540",
+      "resolutionY":"3630"
+   },
+   "QHY163M / QHY163C":{
+      "pixelWidth":"3.8",
+      "pixelHeight":"3.8",
+      "ccdWidth":"17.69",
+      "ccdHeight":"13.38",
+      "resolutionX":"4656",
+      "resolutionY":"3522"
+   },
+   "QHY165C":{
+      "pixelWidth":"4.78",
+      "pixelHeight":"4.78",
+      "ccdWidth":"23.63",
+      "ccdHeight":"15.7",
+      "resolutionX":"4944",
+      "resolutionY":"3284"
+   },
+   "QHY168C":{
+      "pixelWidth":"4.78",
+      "pixelHeight":"4.78",
+      "ccdWidth":"23.63",
+      "ccdHeight":"15.7",
+      "resolutionX":"4944",
+      "resolutionY":"3284"
+   },
+   "QHY16803 / IC16803":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "QHY174M / QHY174C / QHY174M-GPS":{
+      "pixelWidth":"5.86",
+      "pixelHeight":"5.86",
+      "ccdWidth":"11.25",
+      "ccdHeight":"7.03",
+      "resolutionX":"1920",
+      "resolutionY":"1200"
+   },
+   "QHY178M / QHY178C":{
+      "pixelWidth":"2.4",
+      "pixelHeight":"2.4",
+      "ccdWidth":"7.37",
+      "ccdHeight":"4.92",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "QHY183C":{
+      "pixelWidth":"2.4",
+      "pixelHeight":"2.4",
+      "ccdWidth":"13.31",
+      "ccdHeight":"8.87",
+      "resolutionX":"5544",
+      "resolutionY":"3694"
+   },
+   "QHY21":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "QHY22":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "QHY224C":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "QHY23":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "QHY247C":{
+      "pixelWidth":"4.8",
+      "pixelHeight":"4.8",
+      "ccdWidth":"23.77",
+      "ccdHeight":"15.78",
+      "resolutionX":"4952",
+      "resolutionY":"3288"
+   },
+   "QHY27":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"26.93",
+      "ccdHeight":"17.95",
+      "resolutionX":"4896",
+      "resolutionY":"3264"
+   },
+   "QHY28":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"35.99",
+      "ccdHeight":"23.92",
+      "resolutionX":"4864",
+      "resolutionY":"3232"
+   },
+   "QHY29":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"36.17",
+      "ccdHeight":"24.11",
+      "resolutionX":"6576",
+      "resolutionY":"4384"
+   },
+   "QHY290M / QHY290C":{
+      "pixelWidth":"2.9",
+      "pixelHeight":"2.9",
+      "ccdWidth":"5.57",
+      "ccdHeight":"3.13",
+      "resolutionX":"1920",
+      "resolutionY":"1080"
+   },
+   "QHY367C":{
+      "pixelWidth":"4.88",
+      "pixelHeight":"4.88",
+      "ccdWidth":"35.99",
+      "ccdHeight":"24.1",
+      "resolutionX":"7376",
+      "resolutionY":"4938"
+   },
+   "QHY42":{
+      "pixelWidth":"11",
+      "pixelHeight":"11",
+      "ccdWidth":"22.53",
+      "ccdHeight":"22.53",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "QHY5 / QHY5-II / QHY5-II-M":{
+      "pixelWidth":"5.2",
+      "pixelHeight":"5.2",
+      "ccdWidth":"6.66",
+      "ccdHeight":"5.32",
+      "resolutionX":"1280",
+      "resolutionY":"1024"
+   },
+   "QHY5L-II-M / QHY5L-II-C / MiniCAM5F":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "QHY5P-II-M / QHY5P-II-C":{
+      "pixelWidth":"2.2",
+      "pixelHeight":"2.2",
+      "ccdWidth":"5.7",
+      "ccdHeight":"4.28",
+      "resolutionX":"2592",
+      "resolutionY":"1944"
+   },
+   "QHY5R-II-C":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"4.14",
+      "ccdHeight":"3.23",
+      "resolutionX":"740",
+      "resolutionY":"576"
+   },
+   "QHY5III174M / QHY5III174C":{
+      "pixelWidth":"5.86",
+      "pixelHeight":"5.86",
+      "ccdWidth":"11.25",
+      "ccdHeight":"7.03",
+      "resolutionX":"1920",
+      "resolutionY":"1200"
+   },
+   "QHY5III178M / QHY5III178C":{
+      "pixelWidth":"2.4",
+      "pixelHeight":"2.4",
+      "ccdWidth":"7.37",
+      "ccdHeight":"4.92",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "QHY5III224C":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "QHY5III290M / QHY5III290C":{
+      "pixelWidth":"2.9",
+      "pixelHeight":"2.9",
+      "ccdWidth":"5.57",
+      "ccdHeight":"3.13",
+      "resolutionX":"1920",
+      "resolutionY":"1080"
+   },
+   "QHY5L-II":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "QHY5T":{
+      "pixelWidth":"3.2",
+      "pixelHeight":"3.2",
+      "ccdWidth":"6.55",
+      "ccdHeight":"4.92",
+      "resolutionX":"2048",
+      "resolutionY":"1536"
+   },
+   "QHY5V":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"4.51",
+      "ccdHeight":"2.88",
+      "resolutionX":"752",
+      "resolutionY":"480"
+   },
+   "QHY6":{
+      "pixelWidth":"6.5",
+      "pixelHeight":"6.25",
+      "ccdWidth":"4.89",
+      "ccdHeight":"3.64",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "QHY695A / IC695A":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.52",
+      "ccdHeight":"10.02",
+      "resolutionX":"2758",
+      "resolutionY":"2208"
+   },
+   "QHY8 / QHY8 Pro / QHY8L":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"3000",
+      "resolutionY":"2000"
+   },
+   "QHY9 / / QHY90A / IC8300":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "QSI 6120":{
+      "pixelWidth":"3.1",
+      "pixelHeight":"3.1",
+      "ccdWidth":"13.15",
+      "ccdHeight":"8.77",
+      "resolutionX":"4242",
+      "resolutionY":"2830"
+   },
+   "QSI 716":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"35.99",
+      "ccdHeight":"23.92",
+      "resolutionX":"4864",
+      "resolutionY":"3232"
+   },
+   "QSI 729":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"36.17",
+      "ccdHeight":"24.11",
+      "resolutionX":"6576",
+      "resolutionY":"4384"
+   },
+   "QSI 746":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"27.65",
+      "ccdHeight":"18.43",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "QSI 756":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "QSI RS .40 / 604 / 504":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"6.91",
+      "ccdHeight":"4.61",
+      "resolutionX":"768",
+      "resolutionY":"512"
+   },
+   "QSI RS 1.6 / 711 / 616 / 516":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"13.82",
+      "ccdHeight":"9.22",
+      "resolutionX":"1536",
+      "resolutionY":"1024"
+   },
+   "QSI RS 2.0 / 620 / 520 (inc. c)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"11.84",
+      "ccdHeight":"8.88",
+      "resolutionX":"1600",
+      "resolutionY":"1200"
+   },
+   "QSI RS 2.8 / 628":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "QSI RS 3.2 / 632 / 532":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"14.85",
+      "ccdHeight":"10.01",
+      "resolutionX":"2184",
+      "resolutionY":"1472"
+   },
+   "QSI RS 4.2 / 640 / 540 (inc. c)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "QSI RS 6.1 / 660":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "QSI RS 8.3 / 683 / 583 (inc. c)":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "QSI RS 9.2 / 690":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "SBIG ST-1603ME / STT-1603ME":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"13.77",
+      "ccdHeight":"9.18",
+      "resolutionX":"1530",
+      "resolutionY":"1020"
+   },
+   "SBIG ST-3200ME / STT-3200ME":{
+      "pixelWidth":"6.8",
+      "pixelHeight":"6.8",
+      "ccdWidth":"14.85",
+      "ccdHeight":"10.01",
+      "resolutionX":"2184",
+      "resolutionY":"1472"
+   },
+   "SBIG ST-402ME":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"6.91",
+      "ccdHeight":"4.61",
+      "resolutionX":"768",
+      "resolutionY":"512"
+   },
+   "SBIG ST-i Guider/Planetary Camera":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.74",
+      "ccdHeight":"3.55",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "SBIG STF-8050M / 8050C / 8050SC":{
+      "pixelWidth":"5.5",
+      "pixelHeight":"5.5",
+      "ccdWidth":"18.13",
+      "ccdHeight":"13.6",
+      "resolutionX":"3296",
+      "resolutionY":"2472"
+   },
+   "SBIG STF-8300M / ST8300C&nbsp;/ STT-8300M":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "SBIG STX-16803":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.86",
+      "ccdHeight":"36.86",
+      "resolutionX":"4096",
+      "resolutionY":"4096"
+   },
+   "SBIG STX-9000":{
+      "pixelWidth":"12",
+      "pixelHeight":"12",
+      "ccdWidth":"36.7",
+      "ccdHeight":"36.7",
+      "resolutionX":"3058",
+      "resolutionY":"3058"
+   },
+   "SBIG STXL-11002":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "SBIG STXL-6303E":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"27.65",
+      "ccdHeight":"18.43",
+      "resolutionX":"3072",
+      "resolutionY":"2048"
+   },
+   "Sony Alpha DSLR-A100 / A200 / A230 / A300 / A330":{
+      "pixelWidth":"6.05",
+      "pixelHeight":"6.05",
+      "ccdWidth":"23.43",
+      "ccdHeight":"15.68",
+      "resolutionX":"3872",
+      "resolutionY":"2592"
+   },
+   "Sony Alpha DSLR-A290 / A350 / A380 / A390":{
+      "pixelWidth":"5.09",
+      "pixelHeight":"5.09",
+      "ccdWidth":"23.37",
+      "ccdHeight":"15.56",
+      "resolutionX":"4592",
+      "resolutionY":"3056"
+   },
+   "Sony Alpha DSLR-A450 / A550 / A560 / SLT-A33":{
+      "pixelWidth":"5.07",
+      "pixelHeight":"5.07",
+      "ccdWidth":"23.28",
+      "ccdHeight":"15.49",
+      "resolutionX":"4592",
+      "resolutionY":"3056"
+   },
+   "Sony Alpha DSLR-A500 / A700":{
+      "pixelWidth":"5.45",
+      "pixelHeight":"5.45",
+      "ccdWidth":"23.28",
+      "ccdHeight":"15.52",
+      "resolutionX":"4272",
+      "resolutionY":"2848"
+   },
+   "Sony Alpha DSLR-A580 / SLT-A35 / A37 / A55 / A57":{
+      "pixelWidth":"4.75",
+      "pixelHeight":"4.75",
+      "ccdWidth":"23.33",
+      "ccdHeight":"15.5",
+      "resolutionX":"4912",
+      "resolutionY":"3264"
+   },
+   "Sony Alpha DSLR-A850 / A900":{
+      "pixelWidth":"5.91",
+      "pixelHeight":"5.91",
+      "ccdWidth":"35.74",
+      "ccdHeight":"23.83",
+      "resolutionX":"6048",
+      "resolutionY":"4032"
+   },
+   "Sony SLT A58":{
+      "pixelWidth":"4.21",
+      "pixelHeight":"4.21",
+      "ccdWidth":"22.97",
+      "ccdHeight":"15.29",
+      "resolutionX":"5456",
+      "resolutionY":"3632"
+   },
+   "Sony SLT A65 / A77":{
+      "pixelWidth":"3.88",
+      "pixelHeight":"3.88",
+      "ccdWidth":"23.28",
+      "ccdHeight":"15.52",
+      "resolutionX":"6000",
+      "resolutionY":"4000"
+   },
+   "Sony SLT-A99":{
+      "pixelWidth":"5.93",
+      "pixelHeight":"5.93",
+      "ccdWidth":"35.58",
+      "ccdHeight":"23.72",
+      "resolutionX":"6000",
+      "resolutionY":"4000"
+   },
+   "Starlight Xpress CoStar Autoguider":{
+      "pixelWidth":"5.2",
+      "pixelHeight":"5.2",
+      "ccdWidth":"6.66",
+      "ccdHeight":"5.32",
+      "resolutionX":"1280",
+      "resolutionY":"1024"
+   },
+   "Starlight Xpress Exview Autoguider":{
+      "pixelWidth":"17.2",
+      "pixelHeight":"16.6",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"376",
+      "resolutionY":"291"
+   },
+   "Starlight Xpress Lodestar Autoguider / Lodestar C":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Starlight Xpress Lodestar X2":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Starlight Xpress&nbsp;MX516":{
+      "pixelWidth":"9.8",
+      "pixelHeight":"12.6",
+      "ccdWidth":"4.9",
+      "ccdHeight":"3.65",
+      "resolutionX":"500",
+      "resolutionY":"290"
+   },
+   "Starlight Xpress MX5C":{
+      "pixelWidth":"9.8",
+      "pixelHeight":"12.6",
+      "ccdWidth":"4.9",
+      "ccdHeight":"3.65",
+      "resolutionX":"500",
+      "resolutionY":"290"
+   },
+   "Starlight Xpress MX716":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Starlight Xpress MX7C":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Starlight Xpress Superstar Autoguider":{
+      "pixelWidth":"4.65",
+      "pixelHeight":"4.65",
+      "ccdWidth":"6.32",
+      "ccdHeight":"4.76",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Starlight Xpress SXV-H5":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"4.88",
+      "ccdHeight":"3.66",
+      "resolutionX":"659",
+      "resolutionY":"494"
+   },
+   "Starlight Xpress SXV-M25C (AKA SXVF-M25C)":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"3000",
+      "resolutionY":"2000"
+   },
+   "Starlight Xpress SXV-M5 / SXV-M5C (AKA SXVF-M5 / SXVF-M5C)":{
+      "pixelWidth":"9.8",
+      "pixelHeight":"6.3",
+      "ccdWidth":"4.9",
+      "ccdHeight":"3.65",
+      "resolutionX":"500",
+      "resolutionY":"580"
+   },
+   "Starlight Xpress SXV-M7 / SXV-M7C (AKA SXVF-M7 / SXVF-M7C)":{
+      "pixelWidth":"8.6",
+      "pixelHeight":"8.3",
+      "ccdWidth":"6.47",
+      "ccdHeight":"4.83",
+      "resolutionX":"752",
+      "resolutionY":"582"
+   },
+   "Starlight Xpress SXVF-M8C (AKA SXV-M8C)":{
+      "pixelWidth":"3.125",
+      "pixelHeight":"3.125",
+      "ccdWidth":"7.23",
+      "ccdHeight":"5.38",
+      "resolutionX":"2312",
+      "resolutionY":"1720"
+   },
+   "Starlight Xpress SXVF-M9 (AKA SXV-M9)":{
+      "pixelWidth":"11.2",
+      "pixelHeight":"11.4",
+      "ccdWidth":"8.42",
+      "ccdHeight":"6.61",
+      "resolutionX":"752",
+      "resolutionY":"580"
+   },
+   "Starlight Xpress SXVR-H16 / SXVF-H16":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "Starlight Xpress SXVR-H18":{
+      "pixelWidth":"5.4",
+      "pixelHeight":"5.4",
+      "ccdWidth":"17.96",
+      "ccdHeight":"13.52",
+      "resolutionX":"3326",
+      "resolutionY":"2504"
+   },
+   "Starlight Xpress SXVR-H35 / SXVF-H35":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "Starlight Xpress SXVR-H36 / SXVF-H36":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"36.05",
+      "ccdHeight":"24.04",
+      "resolutionX":"4872",
+      "resolutionY":"3248"
+   },
+   "Starlight Xpress SXVR-H674 / SXVR-H674C":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "Starlight Xpress SXVR-H694 / SXVR-H694C":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "Starlight Xpress SXVR-H814 / SXVR-H814C":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "Starlight Xpress SXVR-H9 / SXVR-H9C&nbsp;/ SXVF-H9&nbsp;/ SXVF-H9C (AKA SXV-H9 / SXV-H9C)":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Starlight Xpress SXVR-M25C":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"3000",
+      "resolutionY":"2000"
+   },
+   "Starlight Xpress SXVR-M26C":{
+      "pixelWidth":"6.05",
+      "pixelHeight":"6.05",
+      "ccdWidth":"23.6",
+      "ccdHeight":"15.83",
+      "resolutionX":"3900",
+      "resolutionY":"2616"
+   },
+   "Starlight Xpress Trius SX-25C":{
+      "pixelWidth":"7.8",
+      "pixelHeight":"7.8",
+      "ccdWidth":"23.4",
+      "ccdHeight":"15.6",
+      "resolutionX":"3000",
+      "resolutionY":"2000"
+   },
+   "Starlight Xpress Trius SX-26C":{
+      "pixelWidth":"6.05",
+      "pixelHeight":"6.05",
+      "ccdWidth":"23.6",
+      "ccdHeight":"15.83",
+      "resolutionX":"3900",
+      "resolutionY":"2616"
+   },
+   "Starlight Xpress Trius SX-35":{
+      "pixelWidth":"9",
+      "pixelHeight":"9",
+      "ccdWidth":"36.07",
+      "ccdHeight":"24.05",
+      "resolutionX":"4008",
+      "resolutionY":"2672"
+   },
+   "Starlight Xpress Trius SX-36":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"35.99",
+      "ccdHeight":"23.92",
+      "resolutionX":"4864",
+      "resolutionY":"3232"
+   },
+   "Starlight Xpress Trius SX-674":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "Starlight Xpress Trius SX-674C":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.59",
+      "resolutionX":"1932",
+      "resolutionY":"1452"
+   },
+   "Starlight Xpress Trius SX-694":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "Starlight Xpress Trius SX-694C":{
+      "pixelWidth":"4.54",
+      "pixelHeight":"4.54",
+      "ccdWidth":"12.49",
+      "ccdHeight":"9.99",
+      "resolutionX":"2750",
+      "resolutionY":"2200"
+   },
+   "Starlight Xpress Trius SX-814":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "Starlight Xpress Trius SX-814C":{
+      "pixelWidth":"3.69",
+      "pixelHeight":"3.69",
+      "ccdWidth":"12.47",
+      "ccdHeight":"9.98",
+      "resolutionX":"3380",
+      "resolutionY":"2704"
+   },
+   "Starlight Xpress Trius SX-9":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Starlight Xpress Trius SX-9C":{
+      "pixelWidth":"6.45",
+      "pixelHeight":"6.45",
+      "ccdWidth":"8.77",
+      "ccdHeight":"6.6",
+      "resolutionX":"1360",
+      "resolutionY":"1024"
+   },
+   "Starlight Xpress Trius SXVR-H16 (AKA SX-16)":{
+      "pixelWidth":"7.4",
+      "pixelHeight":"7.4",
+      "ccdWidth":"15.16",
+      "ccdHeight":"15.16",
+      "resolutionX":"2048",
+      "resolutionY":"2048"
+   },
+   "ZWO ASI 071MC-C":{
+      "pixelWidth":"4.78",
+      "pixelHeight":"4.78",
+      "ccdWidth":"23.63",
+      "ccdHeight":"15.7",
+      "resolutionX":"4944",
+      "resolutionY":"3284"
+   },
+   "ZWO ASI 030MC":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"3.84",
+      "ccdHeight":"2.88",
+      "resolutionX":"640",
+      "resolutionY":"480"
+   },
+   "ZWO ASI 034MC":{
+      "pixelWidth":"5.6",
+      "pixelHeight":"5.6",
+      "ccdWidth":"4.08",
+      "ccdHeight":"2.87",
+      "resolutionX":"728",
+      "resolutionY":"512"
+   },
+   "ZWO ASI 035MM / MC":{
+      "pixelWidth":"6",
+      "pixelHeight":"6",
+      "ccdWidth":"4.51",
+      "ccdHeight":"2.88",
+      "resolutionX":"752",
+      "resolutionY":"480"
+   },
+   "ZWO ASI 120MM / MC / MM-S / MC-S":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.8",
+      "ccdHeight":"3.6",
+      "resolutionX":"1280",
+      "resolutionY":"960"
+   },
+   "ZWO ASI 130MM":{
+      "pixelWidth":"5.2",
+      "pixelHeight":"5.2",
+      "ccdWidth":"6.66",
+      "ccdHeight":"5.32",
+      "resolutionX":"1280",
+      "resolutionY":"1024"
+   },
+   "ZWO ASI 1600MM / MC / MM-Cool / MC-Cool":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"17.46",
+      "ccdHeight":"13.2",
+      "resolutionX":"4656",
+      "resolutionY":"3520"
+   },
+   "ZWO ASI 174MM / MC / MM-Cool / MC-Cool":{
+      "pixelWidth":"5.86",
+      "pixelHeight":"5.86",
+      "ccdWidth":"11.34",
+      "ccdHeight":"7.13",
+      "resolutionX":"1936",
+      "resolutionY":"1216"
+   },
+   "ZWO ASI 178MM / MC / MM-Cool / MC-Cool":{
+      "pixelWidth":"2.4",
+      "pixelHeight":"2.4",
+      "ccdWidth":"7.43",
+      "ccdHeight":"4.99",
+      "resolutionX":"3096",
+      "resolutionY":"2080"
+   },
+   "ZWO ASI 185MC / MC-Cool":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"7.29",
+      "ccdHeight":"4.59",
+      "resolutionX":"1944",
+      "resolutionY":"1224"
+   },
+   "ZWO ASI 224MC / MC-Cool":{
+      "pixelWidth":"3.75",
+      "pixelHeight":"3.75",
+      "ccdWidth":"4.89",
+      "ccdHeight":"3.66",
+      "resolutionX":"1304",
+      "resolutionY":"976"
+   },
+   "ZWO ASI 290MM / MC / MM-Cool / MC-Cool":{
+      "pixelWidth":"2.9",
+      "pixelHeight":"2.9",
+      "ccdWidth":"5.61",
+      "ccdHeight":"3.18",
+      "resolutionX":"1936",
+      "resolutionY":"1096"
+   }
+}

@@ -1,0 +1,1 @@
+<button type="{{ $element->type }}" class="{{ implode(' ', $element->classes) }}"><i class="material-icons right">{{ $element->icon }}</i>{{ trans($element->text) }}</button>

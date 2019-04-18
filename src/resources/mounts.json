@@ -1,0 +1,10 @@
+{
+  "EQ-6": {
+    "weight_capacity": "20",
+    "manufacturer_id": "1"
+  },
+  "CGEM": {
+    "weight_capacity": "20",
+    "manufacturer_id": "2"
+  }
+}

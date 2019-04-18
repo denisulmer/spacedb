@@ -1,0 +1,1 @@
+<{{ $element->tag }} data-error="{{ $errors->first($element->for) }}" class="active" for="{{ $element->for }}">{{ $element->text }}</label>

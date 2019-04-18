@@ -1,0 +1,13 @@
+.toast {
+  &.success {
+    @extend .green, .darken-2;
+  }
+
+  &.warning {
+    @extend .orange, .darken-2;
+  }
+
+  &.error {
+    @extend .red, .darken-2;
+  }
+}

@@ -1,0 +1,1 @@
+<{{ $element->tag }} placeholder="{{ $element->placeholder }}" name="{{ $element->name }}" type="{{ $element->type }}" class="{{ implode(' ', $element->classes) }} {{ $errors->has($element->name) ? ' invalid' : '' }}" value="{{ old($element->name) }}">

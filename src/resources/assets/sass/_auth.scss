@@ -1,0 +1,31 @@
+#login-button {
+  @extend .btn, .waves-effect;
+}
+
+#register-button {
+  @extend .btn, .waves-effect;
+}
+
+#reset-password-button {
+  @extend .btn, .right, .waves-effect;
+}
+
+#login-using-google-button {
+  @extend .chip, .z-depth-1;
+}
+
+@media #{$medium-and-down} {
+  #reset-password-button {
+    margin-top: 5px;
+    width: 100%;
+  }
+  #login-button {
+    width: 100%;
+  }
+  #register-button {
+    width: 100%;
+  }
+  #login-using-google-button {
+    margin-top: 15px;
+  }
+}
